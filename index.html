@@ -1,0 +1,888 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Digital Book</title>
+		<link rel="stylesheet" href="Components/bootstrap.min.css">
+		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="Components/aos.css">
+		<link rel="stylesheet" href="Components/swiper-bundle.min.css">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@100..900&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap" rel="stylesheet">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<!-- nav bar -------------------------------------------------------------------------------------->
+		<nav class="navbar navbar-expand-lg">
+			<div class="container-fluid">
+				<a class="navbar-brand" href="#"><img src="image/logo.png" alt=""></a>
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarSupportedContent">
+					<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+								Genre
+							</a>
+							<ul class="dropdown-menu">
+								<li><a class="dropdown-item" href="#adventure">Adventure</a></li>
+								<li><a class="dropdown-item" href="#collection">Collection</a></li>
+								<li><a class="dropdown-item" href="#comedy">Comedy</a></li>
+								<li><a class="dropdown-item" href="#detective">Detective</a></li>
+								<li><a class="dropdown-item" href="#fiction">Fiction</a></li>
+								<li><a class="dropdown-item" href="#horror">Horror</a></li>
+								<li><a class="dropdown-item" href="#mistery">Mistery</a></li>
+								<li><a class="dropdown-item" href="#suspense">Suspense</a></li>
+							</ul>
+						</li>
+						
+					</ul>
+				</div>
+			</div>
+		</nav>
+		
+		<!-- intro -------------------------------------------------------------------------------------->
+		<div class="container-fluid intro">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="container">
+						<h1 class="m-0">Read and Download <span class="text-danger">Bengali Books</span> from here.</h1>
+						<p class="m-0">This is a digital book website. Here you can read and download books of bengali authors. I have created a list of various bengali authors and collected some of their workings.
+							<p class="m-0 text-danger">Enjoy reading &#128521;</p>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="container d-flex justify-content-center bg-white mt-2">
+							<img src="image/cover.jpg" alt="" id="coverimg">
+						</div>
+					</div>
+				</div>
+				
+			</div>
+			<!-- authors -------------------------------------------------------------------------------------->
+			<div id="author">
+				<div class="container-fluid g-0">
+					<h6 class="text-center">Authors Block</h6>
+				</div>
+				
+				<div class="container-fluid mt-3 d-flex justify-content-center flex-column align-items-center author">
+					
+					<select name="" id="selection" onchange="displayFunc()">
+						<option selected disabled>Browse Authors</option>
+						<option value="Adrish">Adrish Bardhan</option>
+						<option value="Ajeo">Ajeo Ray</option>
+						<option value="Anil">Anil Bhowmick</option>
+						<option value="Anish">Anish Deb</option>
+						<option value="">Arpita Sarkar</option>
+						<option value="">Ashapurna Devi</option>
+						<option value="">Avigyan roy choudhury</option>
+						<option value="">Avik Sarkar</option>
+						<option value="">Adrish Bardhan</option>
+						<option value="">Ajeo Ray</option>
+						<option value="">Anil Bhowmick</option>
+						<option value="">Anish Deb</option>
+						<option value="">Arpita Sarkar</option>
+						<option value="">Ashapurna Devi</option>
+						<option value="">Avigyan roy choudhury</option>
+						<option value="">Avik Sarkar</option>
+						<option value="">Bibhutibhushan Bandyopadhyay</option>
+						<option value="">Bimal Kar</option>
+						<option value="">Binod Ghoshal</option>
+						<option value="">Buddhadeb Guha</option>
+						<option value="">Debarati Mukhopadhyay</option>
+						<option value="">Debojyoti Bhattacharya</option>
+						<option value="">Hemendra Kumar Roy</option>
+						<option value="">Himadri Kishore Dasgupta</option>
+						<option value="">Humayun Ahmed</option>
+						<option value="">Indranil Sanyal</option>
+						<option value="">Kaushik Majumder</option>
+						<option value="">Krishnendu Mukhopadhyay</option>
+						<option value="">Leela Majumder</option>
+						<option value="">Manoj Sen</option>
+						<option value="">Mashudul Haquev</option>
+						<option value="">Muhammad Zafar Iqbal</option>
+						<option value="">Nabaneeta Debsen</option>
+						<option value="">Nabarun Bhattacharya</option>
+						<option value="">Narayan Gangopadhyay</option>
+						<option value="">Narayan Sanyal</option>
+						<option value="">Nimai Bhattacharya</option>
+						<option value="">Pracheta Gupta</option>
+						<option value="">Premendra Mitra</option>
+						<option value="">Rabindranath Tagore</option>
+						<option value="">Rupok Saha</option>
+						<option value="">Saikat Mukhopadhyay</option>
+						<option value="">Samaresh Basu</option>
+						<option value="">Samaresh Majumder</option>
+						<option value="">Sanjib Chattopadhyayv</option>
+						<option value="">Santanu Das</option>
+						<option value="">Sasthipada Chattopadhyay</option>
+						<option value="">Satyajit Roy</option>
+						<option value="">Saurav Mukhopadhyayv</option>
+						<option value="">Sayak Aman</option>
+						<option value="">Sayantani Putatunda</option>
+						<option value="">Shantipriyo Bandopadhyay</option>
+						<option value="">Sharadindu Bandopadhyay</option>
+						<option value="">Sharat Chandra Chattopadhyay</option>
+						<option value="">Shirshendu Mukhopadhyay</option>
+						<option value="">Smaranjit Chakraborty</option>
+						<option value="">Suchitra Bhattacharya</option>
+						<option value="">Sukanta Gangopadhyay</option>
+						<option value="">Sunil Gangopadhyay</option>
+						<option value="">Swapan Kumar</option>
+						<option value="">Syed Mustafa Siraj</option>
+						<option value="">Tapan Bandopadhyay</option>
+						<option value="">Tridib Kumar Chattopadhyay</option>
+					</select>
+					<img src="image/author.jpg" alt="" class="mt-3" id="authorImg">
+				</div>
+				
+				<div class="container-fluid mb-4 d-flex flex-wrap justify-content-center">
+					<div class="swiper">
+						<div class="swiper-wrapper" id="mainContainer">
+							
+						</div>
+						
+					</div>
+				</div>
+			</div>
+			<!-- section -------------------------------------------------------------------------------------->
+			<section id="adventure" class="">
+				<div class="container-fluid g-0">
+					<h6 class="text-center">Adventure</h6>
+					<div class="swiper">
+						<div class="swiper-wrapper">
+							<div class="swiper-slide">
+								<div class="container d-flex justify-content-center">
+									<div class="genre">
+										<figure>
+											<a href="" target="_blank">
+												<img src="cover/adrish/a1.png" alt="">
+												<hr>
+												<figcaption>author author</figcaption>
+											</a>
+										</figure>
+									</div>
+								</div>
+							</div>
+							<div class="swiper-slide">
+								<div class="container d-flex justify-content-center">
+									<div class="genre">
+										<figure>
+											<a href="" target="_blank">
+												<img src="cover/adrish/a1.png" alt="">
+												<hr>
+												<figcaption>author author</figcaption>
+											</a>
+										</figure>
+									</div>
+								</div>
+							</div>
+							<div class="swiper-slide">
+								<div class="container d-flex justify-content-center">
+									<div class="genre">
+										<figure>
+											<a href="" target="_blank">
+												<img src="cover/adrish/a1.png" alt="">
+												<hr>
+												<figcaption>author author</figcaption>
+											</a>
+										</figure>
+									</div>
+								</div>
+							</div>
+							<div class="swiper-slide">
+								<div class="container d-flex justify-content-center">
+									<div class="genre">
+										<figure>
+											<a href="" target="_blank">
+												<img src="cover/adrish/a1.png" alt="">
+												<hr>
+												<figcaption>author author</figcaption>
+											</a>
+										</figure>
+									</div>
+								</div>
+							</div>
+							<div class="swiper-slide">
+								<div class="container d-flex justify-content-center">
+									<div class="genre">
+										<figure>
+											<a href="" target="_blank">
+												<img src="cover/adrish/a1.png" alt="">
+												<hr>
+												<figcaption>author author</figcaption>
+											</a>
+										</figure>
+									</div>
+								</div>
+							</div>
+							<div class="swiper-slide">
+								<div class="container d-flex justify-content-center">
+									<div class="genre">
+										<figure>
+											<a href="" target="_blank">
+												<img src="cover/adrish/a1.png" alt="">
+												<hr>
+												<figcaption>author author</figcaption>
+											</a>
+										</figure>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- <div class="swiper-pagination"></div> -->
+						<!-- <div class="swiper-scrollbar"></div> -->
+						<!--   <div class="swiper-button-prev"></div>
+						<div class="swiper-button-next"></div> -->
+					</div>
+				</div>
+			</div>
+		</section>
+		<section id="collection" class="">
+			<div class="container-fluid  g-0">
+				<h6 class="text-center">Collection</h6>
+				<div class="swiper">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide">
+							<div class="container d-flex justify-content-center">
+								<div class="genre">
+									<figure>
+										<a href="" target="_blank">
+											<img src="cover/adrish/a1.png" alt="">
+											<hr>
+											<figcaption>author author</figcaption>
+										</a>
+									</figure>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="container d-flex justify-content-center">
+								<div class="genre">
+									<figure>
+										<a href="" target="_blank">
+											<img src="cover/adrish/a1.png" alt="">
+											<hr>
+											<figcaption>author author</figcaption>
+										</a>
+									</figure>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="container d-flex justify-content-center">
+								<div class="genre">
+									<figure>
+										<a href="" target="_blank">
+											<img src="cover/adrish/a1.png" alt="">
+											<hr>
+											<figcaption>author author</figcaption>
+										</a>
+									</figure>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="container d-flex justify-content-center">
+								<div class="genre">
+									<figure>
+										<a href="" target="_blank">
+											<img src="cover/adrish/a1.png" alt="">
+											<hr>
+											<figcaption>author author</figcaption>
+										</a>
+									</figure>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="container d-flex justify-content-center">
+								<div class="genre">
+									<figure>
+										<a href="" target="_blank">
+											<img src="cover/adrish/a1.png" alt="">
+											<hr>
+											<figcaption>author author</figcaption>
+										</a>
+									</figure>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="container d-flex justify-content-center">
+								<div class="genre">
+									<figure>
+										<a href="" target="_blank">
+											<img src="cover/adrish/a1.png" alt="">
+											<hr>
+											<figcaption>author author</figcaption>
+										</a>
+									</figure>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!--   <div class="swiper-button-prev"></div>
+					<div class="swiper-button-next"></div> -->
+				</div>
+			</div>
+		</section>
+		<section id="comedy" class="">
+			<div class="container-fluid g-0">
+				<h6 class="text-center">Comedy</h6>
+				<div class="swiper">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide">
+							<div class="container d-flex justify-content-center">
+								<div class="genre">
+									<figure>
+										<a href="" target="_blank">
+											<img src="cover/adrish/a1.png" alt="">
+											<hr>
+											<figcaption>author author</figcaption>
+										</a>
+									</figure>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="container d-flex justify-content-center">
+								<div class="genre">
+									<figure>
+										<a href="" target="_blank">
+											<img src="cover/adrish/a1.png" alt="">
+											<hr>
+											<figcaption>author author</figcaption>
+										</a>
+									</figure>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="container d-flex justify-content-center">
+								<div class="genre">
+									<figure>
+										<a href="" target="_blank">
+											<img src="cover/adrish/a1.png" alt="">
+											<hr>
+											<figcaption>author author</figcaption>
+										</a>
+									</figure>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="container d-flex justify-content-center">
+								<div class="genre">
+									<figure>
+										<a href="" target="_blank">
+											<img src="cover/adrish/a1.png" alt="">
+											<hr>
+											<figcaption>author author</figcaption>
+										</a>
+									</figure>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="container d-flex justify-content-center">
+								<div class="genre">
+									<figure>
+										<a href="" target="_blank">
+											<img src="cover/adrish/a1.png" alt="">
+											<hr>
+											<figcaption>author author</figcaption>
+										</a>
+									</figure>
+								</div>
+							</div>
+						</div>
+						<div class="swiper-slide">
+							<div class="container d-flex justify-content-center">
+								<div class="genre">
+									<figure>
+										<a href="" target="_blank">
+											<img src="cover/adrish/a1.png" alt="">
+											<hr>
+											<figcaption>author author</figcaption>
+										</a>
+									</figure>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!--   <div class="swiper-button-prev"></div>
+					<div class="swiper-button-next"></div> -->
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="detective" class="">
+		<div class="container-fluid g-0">
+			<h6 class="text-center">Detective</h6>
+			<div class="swiper">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide">
+						<div class="container d-flex justify-content-center">
+							<div class="genre">
+								<figure>
+									<a href="" target="_blank">
+										<img src="cover/adrish/a1.png" alt="">
+										<hr>
+										<figcaption>author author</figcaption>
+									</a>
+								</figure>
+							</div>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="container d-flex justify-content-center">
+							<div class="genre">
+								<figure>
+									<a href="" target="_blank">
+										<img src="cover/adrish/a1.png" alt="">
+										<hr>
+										<figcaption>author author</figcaption>
+									</a>
+								</figure>
+							</div>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="container d-flex justify-content-center">
+							<div class="genre">
+								<figure>
+									<a href="" target="_blank">
+										<img src="cover/adrish/a1.png" alt="">
+										<hr>
+										<figcaption>author author</figcaption>
+									</a>
+								</figure>
+							</div>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="container d-flex justify-content-center">
+							<div class="genre">
+								<figure>
+									<a href="" target="_blank">
+										<img src="cover/adrish/a1.png" alt="">
+										<hr>
+										<figcaption>author author</figcaption>
+									</a>
+								</figure>
+							</div>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="container d-flex justify-content-center">
+							<div class="genre">
+								<figure>
+									<a href="" target="_blank">
+										<img src="cover/adrish/a1.png" alt="">
+										<hr>
+										<figcaption>author author</figcaption>
+									</a>
+								</figure>
+							</div>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="container d-flex justify-content-center">
+							<div class="genre">
+								<figure>
+									<a href="" target="_blank">
+										<img src="cover/adrish/a1.png" alt="">
+										<hr>
+										<figcaption>author author</figcaption>
+									</a>
+								</figure>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!--   <div class="swiper-button-prev"></div>
+				<div class="swiper-button-next"></div> -->
+			</div>
+		</div>
+	</div>
+</section>
+<section id="fiction" class="">
+	<div class="container-fluid g-0">
+		<h6 class="text-center">Fiction</h6>
+		<div class="swiper">
+			<div class="swiper-wrapper">
+				<div class="swiper-slide">
+					<div class="container d-flex justify-content-center">
+						<div class="genre">
+							<figure>
+								<a href="" target="_blank">
+									<img src="cover/adrish/a1.png" alt="">
+									<hr>
+									<figcaption>author author</figcaption>
+								</a>
+							</figure>
+						</div>
+					</div>
+				</div>
+				<div class="swiper-slide">
+					<div class="container d-flex justify-content-center">
+						<div class="genre">
+							<figure>
+								<a href="" target="_blank">
+									<img src="cover/adrish/a1.png" alt="">
+									<hr>
+									<figcaption>author author</figcaption>
+								</a>
+							</figure>
+						</div>
+					</div>
+				</div>
+				<div class="swiper-slide">
+					<div class="container d-flex justify-content-center">
+						<div class="genre">
+							<figure>
+								<a href="" target="_blank">
+									<img src="cover/adrish/a1.png" alt="">
+									<hr>
+									<figcaption>author author</figcaption>
+								</a>
+							</figure>
+						</div>
+					</div>
+				</div>
+				<div class="swiper-slide">
+					<div class="container d-flex justify-content-center">
+						<div class="genre">
+							<figure>
+								<a href="" target="_blank">
+									<img src="cover/adrish/a1.png" alt="">
+									<hr>
+									<figcaption>author author</figcaption>
+								</a>
+							</figure>
+						</div>
+					</div>
+				</div>
+				<div class="swiper-slide">
+					<div class="container d-flex justify-content-center">
+						<div class="genre">
+							<figure>
+								<a href="" target="_blank">
+									<img src="cover/adrish/a1.png" alt="">
+									<hr>
+									<figcaption>author author</figcaption>
+								</a>
+							</figure>
+						</div>
+					</div>
+				</div>
+				<div class="swiper-slide">
+					<div class="container d-flex justify-content-center">
+						<div class="genre">
+							<figure>
+								<a href="" target="_blank">
+									<img src="cover/adrish/a1.png" alt="">
+									<hr>
+									<figcaption>author author</figcaption>
+								</a>
+							</figure>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!--   <div class="swiper-button-prev"></div>
+			<div class="swiper-button-next"></div> -->
+		</div>
+	</div>
+</div>
+</section>
+<section id="horror" class="">
+<div class="container-fluid g-0">
+	<h6 class="text-center">Horror</h6>
+	<div class="swiper">
+		<div class="swiper-wrapper">
+			<div class="swiper-slide">
+				<div class="container d-flex justify-content-center">
+					<div class="genre">
+						<figure>
+							<a href="" target="_blank">
+								<img src="cover/adrish/a1.png" alt="">
+								<hr>
+								<figcaption>author author</figcaption>
+							</a>
+						</figure>
+					</div>
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="container d-flex justify-content-center">
+					<div class="genre">
+						<figure>
+							<a href="" target="_blank">
+								<img src="cover/adrish/a1.png" alt="">
+								<hr>
+								<figcaption>author author</figcaption>
+							</a>
+						</figure>
+					</div>
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="container d-flex justify-content-center">
+					<div class="genre">
+						<figure>
+							<a href="" target="_blank">
+								<img src="cover/adrish/a1.png" alt="">
+								<hr>
+								<figcaption>author author</figcaption>
+							</a>
+						</figure>
+					</div>
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="container d-flex justify-content-center">
+					<div class="genre">
+						<figure>
+							<a href="" target="_blank">
+								<img src="cover/adrish/a1.png" alt="">
+								<hr>
+								<figcaption>author author</figcaption>
+							</a>
+						</figure>
+					</div>
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="container d-flex justify-content-center">
+					<div class="genre">
+						<figure>
+							<a href="" target="_blank">
+								<img src="cover/adrish/a1.png" alt="">
+								<hr>
+								<figcaption>author author</figcaption>
+							</a>
+						</figure>
+					</div>
+				</div>
+			</div>
+			<div class="swiper-slide">
+				<div class="container d-flex justify-content-center">
+					<div class="genre">
+						<figure>
+							<a href="" target="_blank">
+								<img src="cover/adrish/a1.png" alt="">
+								<hr>
+								<figcaption>author author</figcaption>
+							</a>
+						</figure>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--   <div class="swiper-button-prev"></div>
+		<div class="swiper-button-next"></div> -->
+	</div>
+</div>
+</div>
+</section>
+<section id="mistery" class="">
+<div class="container-fluid g-0">
+<h6 class="text-center">Mistery</h6>
+<div class="swiper">
+	<div class="swiper-wrapper">
+		<div class="swiper-slide">
+			<div class="container d-flex justify-content-center">
+				<div class="genre">
+					<figure>
+						<a href="" target="_blank">
+							<img src="cover/adrish/a1.png" alt="">
+							<hr>
+							<figcaption>author author</figcaption>
+						</a>
+					</figure>
+				</div>
+			</div>
+		</div>
+		<div class="swiper-slide">
+			<div class="container d-flex justify-content-center">
+				<div class="genre">
+					<figure>
+						<a href="" target="_blank">
+							<img src="cover/adrish/a1.png" alt="">
+							<hr>
+							<figcaption>author author</figcaption>
+						</a>
+					</figure>
+				</div>
+			</div>
+		</div>
+		<div class="swiper-slide">
+			<div class="container d-flex justify-content-center">
+				<div class="genre">
+					<figure>
+						<a href="" target="_blank">
+							<img src="cover/adrish/a1.png" alt="">
+							<hr>
+							<figcaption>author author</figcaption>
+						</a>
+					</figure>
+				</div>
+			</div>
+		</div>
+		<div class="swiper-slide">
+			<div class="container d-flex justify-content-center">
+				<div class="genre">
+					<figure>
+						<a href="" target="_blank">
+							<img src="cover/adrish/a1.png" alt="">
+							<hr>
+							<figcaption>author author</figcaption>
+						</a>
+					</figure>
+				</div>
+			</div>
+		</div>
+		<div class="swiper-slide">
+			<div class="container d-flex justify-content-center">
+				<div class="genre">
+					<figure>
+						<a href="" target="_blank">
+							<img src="cover/adrish/a1.png" alt="">
+							<hr>
+							<figcaption>author author</figcaption>
+						</a>
+					</figure>
+				</div>
+			</div>
+		</div>
+		<div class="swiper-slide">
+			<div class="container d-flex justify-content-center">
+				<div class="genre">
+					<figure>
+						<a href="" target="_blank">
+							<img src="cover/adrish/a1.png" alt="">
+							<hr>
+							<figcaption>author author</figcaption>
+						</a>
+					</figure>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--   <div class="swiper-button-prev"></div>
+	<div class="swiper-button-next"></div> -->
+</div>
+</div>
+</div>
+</section>
+<section id="suspense" class="mb-4">
+<div class="container-fluid g-0 mb-5">
+<h6 class="text-center">Suspense</h6>
+<div class="swiper">
+<div class="swiper-wrapper">
+	<div class="swiper-slide">
+		<div class="container d-flex justify-content-center">
+			<div class="genre">
+				<figure>
+					<a href="" target="_blank">
+						<img src="cover/adrish/a1.png" alt="">
+						<hr>
+						<figcaption>author author</figcaption>
+					</a>
+				</figure>
+			</div>
+		</div>
+	</div>
+	<div class="swiper-slide">
+		<div class="container d-flex justify-content-center">
+			<div class="genre">
+				<figure>
+					<a href="" target="_blank">
+						<img src="cover/adrish/a1.png" alt="">
+						<hr>
+						<figcaption>author author</figcaption>
+					</a>
+				</figure>
+			</div>
+		</div>
+	</div>
+	<div class="swiper-slide">
+		<div class="container d-flex justify-content-center">
+			<div class="genre">
+				<figure>
+					<a href="" target="_blank">
+						<img src="cover/adrish/a1.png" alt="">
+						<hr>
+						<figcaption>author author</figcaption>
+					</a>
+				</figure>
+			</div>
+		</div>
+	</div>
+	<div class="swiper-slide">
+		<div class="container d-flex justify-content-center">
+			<div class="genre">
+				<figure>
+					<a href="" target="_blank">
+						<img src="cover/adrish/a1.png" alt="">
+						<hr>
+						<figcaption>author author</figcaption>
+					</a>
+				</figure>
+			</div>
+		</div>
+	</div>
+	<div class="swiper-slide">
+		<div class="container d-flex justify-content-center">
+			<div class="genre">
+				<figure>
+					<a href="" target="_blank">
+						<img src="cover/adrish/a1.png" alt="">
+						<hr>
+						<figcaption>author author</figcaption>
+					</a>
+				</figure>
+			</div>
+		</div>
+	</div>
+	<div class="swiper-slide">
+		<div class="container d-flex justify-content-center">
+			<div class="genre">
+				<figure>
+					<a href="" target="_blank">
+						<img src="cover/adrish/a1.png" alt="">
+						<hr>
+						<figcaption>author author</figcaption>
+					</a>
+				</figure>
+			</div>
+		</div>
+	</div>
+</div>
+<!--   <div class="swiper-button-prev"></div>
+<div class="swiper-button-next"></div> -->
+</div>
+</div>
+</div>
+</section>
+<div class="container-fluid fixed-bottom footer mt-5">
+<p class="m-0 text-center">Made with <span class="text-danger">&#x1F394;</span>, <span class="text-danger">Bootstrap</span> and <span class="text-danger">javascript</span> by <a href="" class="text-decoration-none text-light">Atanu</a>
+</div>
+</body>
+<script src="Components/popper.min.js"></script>
+<script src="Components/bootstrap.min.js"></script>
+<script src="Components/jquery-3.6.4.min.js"></script>
+<script src="Components/swiper-bundle.min.js"></script>
+<script src="Components/aos.js"></script>
+<script>AOS.init({ });</script>
+<script src="script.js"></script>
+</html>

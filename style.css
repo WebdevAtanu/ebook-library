@@ -1,0 +1,199 @@
+h1,
+h5,
+h6 {
+	font-family: "Protest Riot", sans-serif;
+}
+
+h6 {
+	background: #031f4b;
+	padding: 10px;
+	color: white;
+	font-size: 1.5rem;
+}
+
+.navbar {
+	background: #031f4b;
+}
+
+.navbar-brand img {
+	width: 4rem;
+}
+
+.nav-link {
+	font-family: "PT Serif", serif;
+	font-size: 1.3rem;
+	color: white;
+}
+
+.dropdown-menu {
+	background: #031f4b;
+}
+
+.dropdown-item {
+	font-family: "PT Serif", serif;
+	color: white;
+
+	&:hover {
+		color: #031f4b;
+		background: white;
+	}
+
+}
+
+/*nav end-------------------------*/
+.intro {
+	background: #f9d48d;
+	padding: 1rem;
+	color: #031f4b;
+	font-family: "Protest Riot", sans-serif;
+	border-bottom: 1px solid #80808038;
+}
+
+.intro p {
+	font-size: large;
+}
+
+#coverimg {
+	width: 50%;
+	aspect-ratio: 1;
+}
+
+/*intro ends------------*/
+#author {
+	border-bottom: 1px solid #80808038;
+	background: #ff4e44cc;
+	height: 100vh;
+}
+
+.author img {
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+}
+
+select {
+	border: 0;
+	padding: 0.5rem;
+	color: #031f4b;
+	box-shadow: 0px 0px 3px 0px #00000033;
+	border-radius: 0.5rem;
+}
+
+.div {
+	width: 100%;
+	aspect-ratio: 1;
+	margin: 0.5rem;
+	padding: 10px;
+	background: white;
+	box-shadow: 0px 0px 5px 0px #00000033;
+	opacity: 0;
+	border-radius: 5px;
+	animation: fading 0.5s linear forwards;
+
+	& a {
+		text-decoration: none;
+		color: black;
+
+		&  img {
+			width: 100%;
+			aspect-ratio: 1;
+			border-radius: 5px;
+		}
+
+	}
+
+}
+
+#mainContainer {
+	font-family: "Noto Serif Bengali", serif;
+}
+
+/*author end----------------------*/
+.genre {
+	width: 100%;
+	aspect-ratio: 1;
+	padding: 5px;
+	box-shadow: 0px 0px 5px 0px #00000033;
+	border-radius: 5px;
+
+	& a {
+		text-decoration: none;
+		color: black;
+
+		&  img {
+			width: 100%;
+			aspect-ratio: 1/0.8;
+			border-radius: 5px;
+			margin: auto;
+		}
+
+	}
+
+}
+
+@keyframes fading {
+	0% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+
+}
+
+.footer {
+	background: #031f4b;
+
+	& p {
+		color: white;
+		font-family: "Protest Riot", sans-serif;
+	}
+
+}
+
+@media screen and (max-width:480px) {
+	.dropdown-menu {
+		margin: 0;
+		padding: 0;
+		border: none;
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.dropdown-item {
+		color: white;
+		margin: 5px;
+		padding: 0;
+	}
+
+	.dropdown-toggle {
+		display: none;
+	}
+
+	.navbar-toggler {
+		background: white;
+	}
+
+	.div {
+		width: 100%;
+		aspect-ratio: 1/0.5;
+	}
+
+	select {
+		width: 100%;
+	}
+
+	figcaption {
+		font-size: 10px;
+	}
+
+}
+
+.swiper {
+	width: 100%;
+}
+
+.swiper-slide {
+	padding: 10px;
+}

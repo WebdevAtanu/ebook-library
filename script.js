@@ -346,10 +346,7 @@ const swiper = new Swiper('.swiper', {
     // Optional parameters
     direction: 'horizontal',
     loop: true,
-    grid: {
-        rows:2,
-},
-
+    
     // If we need pagination
     pagination: {
         el: '.swiper-pagination',

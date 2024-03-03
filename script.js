@@ -68,102 +68,102 @@ let authors = {
     }],
     "Anish": [{
         "name": "অনিশের সেরা ১০১",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1E2QZRpkU7I0ZBPviViRRAXx7dpFUtGni/view?usp=drivesdk",
         "cover": "cover/anish/s.png"
     }, {
         "name": "পাতাল ঝর",
-        "src": "",
+        "src": "https://drive.google.com/file/d/10qmYaNwou2tGyCsml8OBsyb_Wzl2nHtb/view?usp=drivesdk",
         "cover": "cover/anish/pj.png"
     }, {
         "name": "বারোটি রহস্য উপন্যাস",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1Je1x2iI6MOVtmgKGrBGdB2nAEf2LgMVu/view?usp=drivesdk",
         "cover": "cover/anish/bu.png"
     }, {
         "name": "ভয়পাতাল",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1SCf5CRxBeWjLX3EqXq9Rb0qX_4rOKqfK/view?usp=drivesdk",
         "cover": "cover/anish/vp.png"
     }, {
         "name": "ভূতনাথের ডায়েরি",
-        "src": "",
+        "src": "https://drive.google.com/file/d/10wtKbPom-b7eNS-2851ejn6bQ_0QbLWm/view?usp=drivesdk",
         "cover": "cover/anish/bd.png"
     }, {
         "name": "সেরা ১০০ গল্প",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1u-gOqMCGHdR7o_8HARLvQpYKA6-frmT6/view?usp=drivesdk",
         "cover": "cover/anish/rr.png"
     }, {
         "name": "সেরা কল্পবিজ্ঞান",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1BWZzH9jRI7AOqYlo4jcfkFBts6A4vhWU/view?usp=drivesdk",
         "cover": "cover/anish/sk.png"
     }],
 
     "Arpita": [{
         "name": "অনুভবে তুমি",
-        "src": "",
+        "src": "https://drive.google.com/file/d/18XVbDnJXO-qn1c27s0zfAjYYptmtOlkD/view?usp=drivesdk",
         "cover": "cover/arpita/ot.png"
     }, {
         "name": "চেনা অচেনার ভিড়ে",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1fuyyx1da3Ktcsjw55lBXF6o5N9U7Vjxm/view?usp=drivesdk",
         "cover": "cover/arpita/cv.png"
     }, {
         "name": "নীরবে তোমায় দেখি",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1qnMoo56I1pMimUAUNoN5NTjUlBlLddod/view?usp=drivesdk",
         "cover": "cover/arpita/nd.png"
     }],
 
     "Ashapurna": [{
         "name": "পঞ্চাশটি প্রিয় গল্প",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1nY0GjurigObM1aE5Jj04o2LXDZCCj2hf/view?usp=drivesdk",
         "cover": "cover/ashapurna/ppg.png"
     }, {
         "name": "প্রিয় গল্প",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1w3H2owE1MBEo7NWTcc-awenu2bI9-_M1/view?usp=drivesdk",
         "cover": "cover/ashapurna/pg.png"
     }, {
         "name": "সেরা ছয়টি উপন্যাস",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1apmKZlAzhf3p08IV_K2JqgGm6sQM7Qbl/view?usp=drivesdk",
         "cover": "cover/ashapurna/su.png"
     }],
     "Avigyan": [{
         "name": "ভয়নিচের অজানা ভাষা",
-        "src": "",
+        "src": "https://drive.google.com/file/d/11xJaXe3vdlSe7ZBddu_dy3_4ZcvEv-tY/view?usp=drivesdk",
         "cover": "cover/avigyan/vv.png"
     }, {
         "name": "ভৌতিক অলৌকিক",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1Nf_puTNr7U22X3Bf9KBKex_hriITAB1x/view?usp=drivesdk",
         "cover": "cover/avigyan/vo.png"
     }, {
         "name": "রহস্য যখন ডারউইন",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1oSs2SAoH2qrvhO0Dki8rn-dCF8MSs58K/view?usp=drivesdk",
         "cover": "cover/avigyan/rd.png"
     }, {
         "name": "রাতের ট্রেনের সঙ্গী",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1YUr9tPFQxMwSdFBL7dFGMZ1n2gpTqPH1/view?usp=drivesdk",
         "cover": "cover/avigyan/rs.png"
     }, {
         "name": "সংকেত রহস্য",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1TQUzCXwJiGnUwp--LwYpSL7PTM-CGB1q/view?usp=drivesdk",
         "cover": "cover/avigyan/sr.png"
     }],
 
     "Bimal": [{
         "name": "অলৌকিক",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1tFve6yN70v9O73TH54G3VjFeF9VC0Hm1/view?usp=drivesdk",
         "cover": "cover/bimal/o.png"
     }, {
         "name": "কিকিরা সমগ্র ১",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1-JcCOkZ5jCiijWCgZi9DSCNrWuGUTjB3/view?usp=drivesdk",
         "cover": "cover/bimal/ks1.png"
     }, {
         "name": "কিকিরা সমগ্র ২",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1FhVkZU8vBoxKsOng03pVbwJQDBFyoOqe/view?usp=drivesdk",
         "cover": "cover/bimal/ks2.png"
     }, {
         "name": "কিকিরা সমগ্র ৩",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1N2y_HmwUnkvL0YF8P19eNHoZLTHSRrMW/view?usp=drivesdk",
         "cover": "cover/bimal/ks3.png"
     }, {
         "name": "সরস গল্প",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1IK1c-8sLA2HYxQOFViwDx844n_1OQCp1/view?usp=drivesdk",
         "cover": "cover/bimal/sg.png"
     }],
 

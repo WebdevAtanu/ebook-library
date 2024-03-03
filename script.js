@@ -69,42 +69,109 @@ let authors = {
     "Anish": [{
         "name": "অনিশের সেরা ১০১",
         "src": "",
-        "cover": ""
+        "cover": "cover/anish/s.png"
     }, {
         "name": "পাতাল ঝর",
         "src": "",
-        "cover": ""
+        "cover": "cover/anish/pj.png"
     }, {
         "name": "বারোটি রহস্য উপন্যাস",
         "src": "",
-        "cover": ""
-    }, {
-        "name": "বিশ্বের সেরা ভয়ঙ্কর ভূতের গল্প",
-        "src": "",
-        "cover": ""
+        "cover": "cover/anish/bu.png"
     }, {
         "name": "ভয়পাতাল",
         "src": "",
-        "cover": ""
+        "cover": "cover/anish/vp.png"
     }, {
         "name": "ভূতনাথের ডায়েরি",
         "src": "",
-        "cover": ""
+        "cover": "cover/anish/bd.png"
     }, {
-        "name": "রহস্য রোমাঞ্চ গোয়েন্দা পত্রিকার সেরা ১০০ গল্প",
+        "name": "সেরা ১০০ গল্প",
         "src": "",
-        "cover": ""
+        "cover": "cover/anish/rr.png"
     }, {
         "name": "সেরা কল্পবিজ্ঞান",
         "src": "",
-        "cover": ""
+        "cover": "cover/anish/sk.png"
+    }],
+
+    "Arpita": [{
+        "name": "অনুভবে তুমি",
+        "src": "",
+        "cover": "cover/arpita/ot.png"
+    }, {
+        "name": "চেনা অচেনার ভিড়ে",
+        "src": "",
+        "cover": "cover/arpita/cv.png"
+    }, {
+        "name": "নীরবে তোমায় দেখি",
+        "src": "",
+        "cover": "cover/arpita/nd.png"
+    }],
+
+    "Ashapurna": [{
+        "name": "পঞ্চাশটি প্রিয় গল্প",
+        "src": "",
+        "cover": "cover/ashapurna/ppg.png"
+    }, {
+        "name": "প্রিয় গল্প",
+        "src": "",
+        "cover": "cover/ashapurna/pg.png"
+    }, {
+        "name": "সেরা ছয়টি উপন্যাস",
+        "src": "",
+        "cover": "cover/ashapurna/su.png"
+    }],
+    "Avigyan": [{
+        "name": "ভয়নিচের অজানা ভাষা",
+        "src": "",
+        "cover": "cover/avigyan/vv.png"
+    }, {
+        "name": "ভৌতিক অলৌকিক",
+        "src": "",
+        "cover": "cover/avigyan/vo.png"
+    }, {
+        "name": "রহস্য যখন ডারউইন",
+        "src": "",
+        "cover": "cover/avigyan/rd.png"
+    }, {
+        "name": "রাতের ট্রেনের সঙ্গী",
+        "src": "",
+        "cover": "cover/avigyan/rs.png"
+    }, {
+        "name": "সংকেত রহস্য",
+        "src": "",
+        "cover": "cover/avigyan/sr.png"
+    }],
+
+    "Bimal": [{
+        "name": "অলৌকিক",
+        "src": "",
+        "cover": "cover/bimal/o.png"
+    }, {
+        "name": "কিকিরা সমগ্র ১",
+        "src": "",
+        "cover": "cover/bimal/ks1.png"
+    }, {
+        "name": "কিকিরা সমগ্র ২",
+        "src": "",
+        "cover": "cover/bimal/ks2.png"
+    }, {
+        "name": "কিকিরা সমগ্র ৩",
+        "src": "",
+        "cover": "cover/bimal/ks3.png"
+    }, {
+        "name": "সরস গল্প",
+        "src": "",
+        "cover": "cover/bimal/sg.png"
     }],
 
 }
 
 
 
-
+// json end-------------------------------------
 
 function displayFunc() {
     document.getElementById("mainContainer").replaceChildren();
@@ -173,12 +240,80 @@ function displayFunc() {
                 <div class="div">
                 <figure>
 					<a href="${authors.Anish[i].src}" target="_blank">
-						<img src="image/ex.jpg" alt="">
+						<img src="${authors.Anish[i].cover}" alt="">
 						<hr>
 						<figcaption>${authors.Anish[i].name}</figcaption>
 					</a>
 					</figure>
 					</div>`
+                div.setAttribute('class', 'swiper-slide');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+        case "Arpita":
+            for (i = 0; i < authors.Arpita.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <div class="div">
+                <figure>
+                    <a href="${authors.Arpita[i].src}" target="_blank">
+                        <img src="${authors.Arpita[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Arpita[i].name}</figcaption>
+                    </a>
+                    </figure>
+                    </div>`
+                div.setAttribute('class', 'swiper-slide');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+        case "Ashapurna":
+            for (i = 0; i < authors.Ashapurna.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <div class="div">
+                <figure>
+                    <a href="${authors.Ashapurna[i].src}" target="_blank">
+                        <img src="${authors.Ashapurna[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Ashapurna[i].name}</figcaption>
+                    </a>
+                    </figure>
+                    </div>`
+                div.setAttribute('class', 'swiper-slide');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+        case "Avigyan":
+            for (i = 0; i < authors.Avigyan.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <div class="div">
+                <figure>
+                    <a href="${authors.Avigyan[i].src}" target="_blank">
+                        <img src="${authors.Avigyan[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Avigyan[i].name}</figcaption>
+                    </a>
+                    </figure>
+                    </div>`
+                div.setAttribute('class', 'swiper-slide');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+        case "Bimal":
+            for (i = 0; i < authors.Bimal.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <div class="div">
+                <figure>
+                    <a href="${authors.Bimal[i].src}" target="_blank">
+                        <img src="${authors.Bimal[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Bimal[i].name}</figcaption>
+                    </a>
+                    </figure>
+                    </div>`
                 div.setAttribute('class', 'swiper-slide');
                 document.getElementById("mainContainer").appendChild(div);
             }
@@ -204,9 +339,8 @@ const swiper = new Swiper('.swiper', {
             spaceBetween: 10
         }
     },
-
     autoplay: {
-        delay: 5000,
+        delay: 3000,
     },
     // centeredSlides: true,
     // Optional parameters

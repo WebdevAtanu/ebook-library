@@ -11,6 +11,10 @@ h6 {
 	font-size: 1.5rem;
 }
 
+section {
+	height: 100vh;
+}
+
 .navbar {
 	background: #031f4b;
 }
@@ -42,7 +46,7 @@ h6 {
 
 /*nav end-------------------------*/
 .intro {
-  height:90vh;
+	height: 90vh;
 	background: #f9d48d;
 	padding: 1rem;
 	color: #031f4b;
@@ -62,8 +66,7 @@ h6 {
 /*intro ends------------*/
 #author {
 	border-bottom: 1px solid #80808038;
-	background: url("image/back.jpg");
-	background-attachment: fixed;
+	background: #b11235ad;
 	height: 100vh;
 }
 
@@ -88,10 +91,10 @@ select {
 	margin: 0.5rem;
 	padding: 10px;
 	background: white;
-	box-shadow: 0px 10px 0px 0px #00000033;
+	box-shadow: -10px -10px 5px 0px #00000033;
 	opacity: 0;
 	border-radius: 5px;
-	animation: fading 0.5s linear forwards;
+	animation: fading 1.5s linear forwards;
 
 	& a {
 		text-decoration: none;
@@ -107,17 +110,22 @@ select {
 
 }
 
+.swipebtn {
+	color: #031f4b !important;
+}
+
 #mainContainer {
 	font-family: "Noto Serif Bengali", serif;
 }
 
 /*author end----------------------*/
 .genre {
-	width: 100%;
+	width: 65%;
 	aspect-ratio: 1;
 	padding: 5px;
-	box-shadow: 0px 0px 5px 0px #00000033;
+	border: 0.5px solid #80808057;
 	border-radius: 5px;
+	margin: 0.5rem;
 
 	& a {
 		text-decoration: none;
@@ -184,7 +192,11 @@ select {
 	}
 
 	#author {
-		height: 75vh;
+		height: 100vh;
+	}
+
+	.genre {
+		width: 100%;
 	}
 
 	select {

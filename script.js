@@ -331,22 +331,23 @@ const swiper = new Swiper('.swiper', {
     breakpoints: {
         // when window width is >= 320px
         320: {
-            slidesPerView: 2,
+            slidesPerView: 1.5,
             spaceBetween: 10
         },
         1024: {
-            slidesPerView: 5,
+            slidesPerView: 4,
             spaceBetween: 10
         }
     },
     autoplay: {
-        delay: 3000,
+        delay: 5000,
     },
-    // centeredSlides: true,
+    // effect:"coverflow",
+    centeredSlides: true,
     // Optional parameters
     direction: 'horizontal',
     loop: true,
-    
+
     // If we need pagination
     pagination: {
         el: '.swiper-pagination',

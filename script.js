@@ -184,16 +184,14 @@ function displayFunc() {
             for (i = 0; i < authors.Adrish.length; i++) {
                 var div = document.createElement('div');
                 div.innerHTML = `
-                <div class="div">
                 <figure>
 					<a href="${authors.Adrish[i].src}" target="_blank">
 						<img src="${authors.Adrish[i].cover}" alt="">
 						<hr>
 						<figcaption>${authors.Adrish[i].name}</figcaption>
 					</a>
-					</figure>
-					</div>`
-                div.setAttribute('class', 'swiper-slide');
+					</figure>`
+                div.setAttribute('class', 'div');
                 document.getElementById("mainContainer").appendChild(div);
             }
             break;
@@ -202,16 +200,14 @@ function displayFunc() {
             for (i = 0; i < authors.Ajeo.length; i++) {
                 var div = document.createElement('div');
                 div.innerHTML = `
-                <div class="div">
                 <figure>
 					<a href="${authors.Ajeo[i].src}" target="_blank">
 						<img src="${authors.Ajeo[i].cover}" alt="">
 						<hr>
 						<figcaption>${authors.Ajeo[i].name}</figcaption>
 					</a>
-					</figure>
-					</div>`
-                div.setAttribute('class', 'swiper-slide');
+					</figure>`
+                div.setAttribute('class', 'div');
                 document.getElementById("mainContainer").appendChild(div);
             }
             break;
@@ -220,16 +216,14 @@ function displayFunc() {
             for (i = 0; i < authors.Anil.length; i++) {
                 var div = document.createElement('div');
                 div.innerHTML = `
-                <div class="div">
                 <figure>
 					<a href="${authors.Anil[i].src}" target="_blank">
 						<img src="${authors.Anil[i].cover}" alt="">
 						<hr>
 						<figcaption>${authors.Anil[i].name}</figcaption>
 					</a>
-					</figure>
-					</div>`
-                div.setAttribute('class', 'swiper-slide');
+					</figure>`
+                div.setAttribute('class', 'div');
                 document.getElementById("mainContainer").appendChild(div);
             }
             break;
@@ -237,16 +231,14 @@ function displayFunc() {
             for (i = 0; i < authors.Anish.length; i++) {
                 var div = document.createElement('div');
                 div.innerHTML = `
-                <div class="div">
                 <figure>
 					<a href="${authors.Anish[i].src}" target="_blank">
 						<img src="${authors.Anish[i].cover}" alt="">
 						<hr>
 						<figcaption>${authors.Anish[i].name}</figcaption>
 					</a>
-					</figure>
-					</div>`
-                div.setAttribute('class', 'swiper-slide');
+					</figure>`
+                div.setAttribute('class', 'div');
                 document.getElementById("mainContainer").appendChild(div);
             }
             break;
@@ -254,16 +246,14 @@ function displayFunc() {
             for (i = 0; i < authors.Arpita.length; i++) {
                 var div = document.createElement('div');
                 div.innerHTML = `
-                <div class="div">
                 <figure>
                     <a href="${authors.Arpita[i].src}" target="_blank">
                         <img src="${authors.Arpita[i].cover}" alt="">
                         <hr>
                         <figcaption>${authors.Arpita[i].name}</figcaption>
                     </a>
-                    </figure>
-                    </div>`
-                div.setAttribute('class', 'swiper-slide');
+                    </figure>`
+                div.setAttribute('class', 'div');
                 document.getElementById("mainContainer").appendChild(div);
             }
             break;
@@ -271,16 +261,14 @@ function displayFunc() {
             for (i = 0; i < authors.Ashapurna.length; i++) {
                 var div = document.createElement('div');
                 div.innerHTML = `
-                <div class="div">
                 <figure>
                     <a href="${authors.Ashapurna[i].src}" target="_blank">
                         <img src="${authors.Ashapurna[i].cover}" alt="">
                         <hr>
                         <figcaption>${authors.Ashapurna[i].name}</figcaption>
                     </a>
-                    </figure>
-                    </div>`
-                div.setAttribute('class', 'swiper-slide');
+                    </figure>`
+                div.setAttribute('class', 'div');
                 document.getElementById("mainContainer").appendChild(div);
             }
             break;
@@ -288,16 +276,14 @@ function displayFunc() {
             for (i = 0; i < authors.Avigyan.length; i++) {
                 var div = document.createElement('div');
                 div.innerHTML = `
-                <div class="div">
                 <figure>
                     <a href="${authors.Avigyan[i].src}" target="_blank">
                         <img src="${authors.Avigyan[i].cover}" alt="">
                         <hr>
                         <figcaption>${authors.Avigyan[i].name}</figcaption>
                     </a>
-                    </figure>
-                    </div>`
-                div.setAttribute('class', 'swiper-slide');
+                    </figure>`
+                div.setAttribute('class', 'div');
                 document.getElementById("mainContainer").appendChild(div);
             }
             break;
@@ -305,16 +291,14 @@ function displayFunc() {
             for (i = 0; i < authors.Bimal.length; i++) {
                 var div = document.createElement('div');
                 div.innerHTML = `
-                <div class="div">
                 <figure>
                     <a href="${authors.Bimal[i].src}" target="_blank">
                         <img src="${authors.Bimal[i].cover}" alt="">
                         <hr>
                         <figcaption>${authors.Bimal[i].name}</figcaption>
                     </a>
-                    </figure>
-                    </div>`
-                div.setAttribute('class', 'swiper-slide');
+                    </figure>`
+                div.setAttribute('class', 'div');
                 document.getElementById("mainContainer").appendChild(div);
             }
             break;
@@ -331,7 +315,7 @@ const swiper = new Swiper('.swiper', {
     breakpoints: {
         // when window width is >= 320px
         320: {
-            slidesPerView: 1.5,
+            slidesPerView: 1,
             spaceBetween: 10
         },
         1024: {
@@ -343,7 +327,7 @@ const swiper = new Swiper('.swiper', {
         delay: 5000,
     },
     // effect:"coverflow",
-    centeredSlides: true,
+    // centeredSlides: true,
     // Optional parameters
     direction: 'horizontal',
     loop: true,

@@ -44,9 +44,13 @@ section {
 
 }
 
+.navbar-toggler {
+	background: white;
+}
+
 /*nav end-------------------------*/
 .intro {
-	height: 90vh;
+	height: 100%;
 	background: #f9d48d;
 	padding: 1rem;
 	color: #031f4b;
@@ -67,7 +71,7 @@ section {
 #author {
 	border-bottom: 1px solid #80808038;
 	background: #b11235ad;
-	height: 100vh;
+	height: 100%;
 }
 
 .author img {
@@ -86,7 +90,7 @@ select {
 }
 
 .div {
-	width: 80%;
+	width: 10%;
 	aspect-ratio: 1;
 	margin: 0.5rem;
 	padding: 10px;
@@ -108,10 +112,6 @@ select {
 
 	}
 
-}
-
-.swipebtn {
-	color: #031f4b !important;
 }
 
 #mainContainer {
@@ -163,7 +163,7 @@ select {
 
 }
 
-@media screen and (max-width:480px) {
+@media screen and (max-width:580px) {
 	.dropdown-menu {
 		margin: 0;
 		padding: 0;
@@ -182,17 +182,12 @@ select {
 		display: none;
 	}
 
-	.navbar-toggler {
-		background: white;
+	#author {
+		height: 100%;
 	}
 
 	.div {
-		width: 100%;
-		aspect-ratio: 1/0.5;
-	}
-
-	#author {
-		height: 100vh;
+		width: 40%;
 	}
 
 	.genre {
@@ -214,5 +209,5 @@ select {
 }
 
 .swiper-slide {
-	padding: 10px;
+	padding: 5px;
 }

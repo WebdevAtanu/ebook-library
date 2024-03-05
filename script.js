@@ -167,6 +167,50 @@ let authors = {
         "cover": "cover/bimal/sg.png"
     }],
 
+    "Binod": [{
+        "name": "কাল ভৈরবের ঘাট",
+        "src": "",
+        "cover": "cover/binod/kvg.png"
+    }, {
+        "name": "কালো গল্প",
+        "src": "",
+        "cover": "cover/binod/kg.png"
+    }, {
+        "name": "গভীর জালের রহস্য",
+        "src": "",
+        "cover": "cover/binod/gr.png"
+    }, {
+        "name": "ডানাওয়ালা মানুষ",
+        "src": "",
+        "cover": "cover/binod/dm.png"
+    }, {
+        "name": "নতুন গল্প ২৫",
+        "src": "",
+        "cover": "cover/binod/ng.png"
+    }],
+
+    "Buddhadeb": [{
+        "name": "ঋজুদা সমগ্র ১",
+        "src": "",
+        "cover": "cover/buddhadeb/r1.png"
+    }, {
+        "name": "ঋজুদা সমগ্র ২",
+        "src": "",
+        "cover": "cover/buddhadeb/r2.png"
+    }, {
+        "name": "ঋজুদা সমগ্র ৩",
+        "src": "",
+        "cover": "cover/buddhadeb/r3.png"
+    }, {
+        "name": "ঋজুদা সমগ্র ৪",
+        "src": "",
+        "cover": "cover/buddhadeb/r4.png"
+    }, {
+        "name": "ঋজুদা সমগ্র ৫",
+        "src": "",
+        "cover": "cover/buddhadeb/r5.png"
+    }],
+
 }
 
 
@@ -196,7 +240,7 @@ function displayFunc() {
             }
             break;
         case "Ajeo":
-            document.getElementById("authorImg").setAttribute('src', 'image/logo.png');
+            document.getElementById("authorImg").setAttribute('src', 'image/author.jpg');
             for (i = 0; i < authors.Ajeo.length; i++) {
                 var div = document.createElement('div');
                 div.innerHTML = `
@@ -212,7 +256,7 @@ function displayFunc() {
             }
             break;
         case "Anil":
-            document.getElementById("authorImg").setAttribute('src', 'image/logo.png');
+            document.getElementById("authorImg").setAttribute('src', 'image/author.jpg');
             for (i = 0; i < authors.Anil.length; i++) {
                 var div = document.createElement('div');
                 div.innerHTML = `
@@ -228,6 +272,7 @@ function displayFunc() {
             }
             break;
         case "Anish":
+            document.getElementById("authorImg").setAttribute('src', 'author/anish.jpg');
             for (i = 0; i < authors.Anish.length; i++) {
                 var div = document.createElement('div');
                 div.innerHTML = `
@@ -243,6 +288,7 @@ function displayFunc() {
             }
             break;
         case "Arpita":
+            document.getElementById("authorImg").setAttribute('src', 'author/arpita.jpeg');
             for (i = 0; i < authors.Arpita.length; i++) {
                 var div = document.createElement('div');
                 div.innerHTML = `
@@ -258,6 +304,7 @@ function displayFunc() {
             }
             break;
         case "Ashapurna":
+            document.getElementById("authorImg").setAttribute('src', 'author/ashapurna.jpg');
             for (i = 0; i < authors.Ashapurna.length; i++) {
                 var div = document.createElement('div');
                 div.innerHTML = `
@@ -273,6 +320,7 @@ function displayFunc() {
             }
             break;
         case "Avigyan":
+            document.getElementById("authorImg").setAttribute('src', 'author/avigyan.jpeg');
             for (i = 0; i < authors.Avigyan.length; i++) {
                 var div = document.createElement('div');
                 div.innerHTML = `
@@ -288,6 +336,7 @@ function displayFunc() {
             }
             break;
         case "Bimal":
+            document.getElementById("authorImg").setAttribute('src', 'author/bimal.jpg');
             for (i = 0; i < authors.Bimal.length; i++) {
                 var div = document.createElement('div');
                 div.innerHTML = `
@@ -296,6 +345,40 @@ function displayFunc() {
                         <img src="${authors.Bimal[i].cover}" alt="">
                         <hr>
                         <figcaption>${authors.Bimal[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Binod":
+            document.getElementById("authorImg").setAttribute('src', 'author/binod.jpeg');
+            for (i = 0; i < authors.Binod.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Binod[i].src}" target="_blank">
+                        <img src="${authors.Binod[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Binod[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Buddhadeb":
+            document.getElementById("authorImg").setAttribute('src', 'author/buddha.jpeg');
+            for (i = 0; i < authors.Buddhadeb.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Buddhadeb[i].src}" target="_blank">
+                        <img src="${authors.Buddhadeb[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Buddhadeb[i].name}</figcaption>
                     </a>
                     </figure>`
                 div.setAttribute('class', 'div');

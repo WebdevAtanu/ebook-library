@@ -15,6 +15,15 @@ section {
 	height: 100%;
 }
 
+figure {
+	margin: 0;
+
+	& figcaption {
+		text-align: center;
+	}
+
+}
+
 .navbar {
 	background: #031f4b;
 }
@@ -90,7 +99,7 @@ select {
 }
 
 .div {
-	width: 10%;
+	width: 10rem;
 	aspect-ratio: 1;
 	margin: 0.5rem;
 	padding: 10px;

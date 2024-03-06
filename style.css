@@ -23,7 +23,9 @@ figure {
 	}
 
 }
-
+hr {
+    margin: 0.5rem 0;
+}
 .navbar {
 	background: #031f4b;
 }
@@ -59,7 +61,7 @@ figure {
 
 /*nav end-------------------------*/
 .intro {
-	height: 90vh;
+	height: 100%;
 	background: #f9d48d;
 	padding: 1rem;
 	color: #031f4b;

@@ -211,6 +211,252 @@ let authors = {
         "cover": "cover/buddhadeb/r5.png"
     }],
 
+    "Debarati": [{
+        "name": "অঘোরে ঘুমিয়ে শিব",
+        "src": "",
+        "cover": "cover/debarati/os.png"
+    }, {
+        "name": "দিওতিমা",
+        "src": "",
+        "cover": "cover/debarati/d.png"
+    }, {
+        "name": "নরক সংকেত",
+        "src": "",
+        "cover": "cover/debarati/ns.png"
+    }, {
+        "name": "নারাচ",
+        "src": "",
+        "cover": "cover/debarati/n.png"
+    }, {
+        "name": "নির্বাচিত ৪২",
+        "src": "",
+        "cover": "cover/debarati/nb.png"
+    }, {
+        "name": "হারিয়ে যাওয়া খুনিরা",
+        "src": "",
+        "cover": "cover/debarati/hk.png"
+    }],
+
+    "Debojyoti": [{
+        "name": "ওরা মানুষ ছিল না",
+        "src": "",
+        "cover": "cover/debojyoti/om.png"
+    }, {
+        "name": "পংখিলালের গুহা",
+        "src": "",
+        "cover": "cover/debojyoti/pg.png"
+    }],
+
+    "Dipika": [{
+        "name": "চন্দ্রপ্রতাপগরের আতঙ্ক",
+        "src": "",
+        "cover": "cover/dipika/cpa.png"
+    }, {
+        "name": "পাতালকোট",
+        "src": "",
+        "cover": "cover/dipika/p.png"
+    }],
+
+     "Hemendra": [{
+        "name": "অজানা দ্বীপের রানী",
+        "src": "",
+        "cover": "cover/hemendra/or.png"
+    }, {
+        "name": "অদৃশ্য মানুষ",
+        "src": "",
+        "cover": "cover/hemendra/om.png"
+    }, {
+        "name": "কুমার-বিমলের অ্যাডভেঞ্চার সমগ্র",
+        "src": "",
+        "cover": "cover/hemendra/kb.png"
+    }, {
+        "name": "গোয়েন্দা কাহিনী সমগ্র",
+        "src": "",
+        "cover": "cover/hemendra/gs.png"
+    }, {
+        "name": "ভয় সমগ্র",
+        "src": "",
+        "cover": "cover/hemendra/bs.png"
+    }, {
+        "name": "ভৌতিক সমগ্র",
+        "src": "",
+        "cover": "cover/hemendra/vs.png"
+    }, {
+        "name": "রহস্য রোমাঞ্চ সমগ্র",
+        "src": "",
+        "cover": "cover/hemendra/rs.png"
+    }, {
+        "name": "রহস্যের আলোছায়া",
+        "src": "",
+        "cover": "cover/hemendra/rc.png"
+    }],
+
+     "Himadri": [{
+        "name": "অপরাজেয়",
+        "src": "",
+        "cover": "cover/himadri/a.png"
+    }, {
+        "name": "অ্যাডভেঞ্চার সমগ্র",
+        "src": "",
+        "cover": "cover/himadri/as.png"
+    }, {
+        "name": "অ্যাডভেঞ্চার সমগ্র ২",
+        "src": "",
+        "cover": "cover/himadri/ha2.png"
+    }, {
+        "name": "অ্যাডভেঞ্চার সমগ্র ৪",
+        "src": "",
+        "cover": "cover/himadri/ha4.png"
+    }, {
+        "name": "আঁধার রাতের বন্ধু",
+        "src": "",
+        "cover": "cover/himadri/ab.png"
+    }, {
+        "name": "এডভেঞ্চার ভয়ংকর",
+        "src": "",
+        "cover": "cover/himadri/av.png"
+    }, {
+        "name": "কালো ঘুড়ি",
+        "src": "",
+        "cover": "cover/himadri/kg.png"
+    }, {
+        "name": "চন্দ্রভাগার চাঁদ",
+        "src": "",
+        "cover": "cover/himadri/cc.png"
+    },{
+        "name": "জীবন্ত উপবীত",
+        "src": "",
+        "cover": "cover/himadri/ju.png"
+    }, {
+        "name": "ঝুনঝুন প্রাসাদের ছায়ামূর্তি",
+        "src": "",
+        "cover": "cover/himadri/jc.png"
+    }, {
+        "name": "নেকড়ে খামার",
+        "src": "",
+        "cover": "cover/himadri/nk.png"
+    }, {
+        "name": "ভয়ঙ্কর স্বীকারোক্তি",
+        "src": "",
+        "cover": "cover/himadri/vs.png"
+    }, {
+        "name": "রাক্ষুসে নেকড়ে",
+        "src": "",
+        "cover": "cover/himadri/rn.png"
+    }, {
+        "name": "রানি হাটশেপসুটের মমি",
+        "src": "",
+        "cover": "cover/himadri/rm.png"
+    }, {
+        "name": "রুদ্রনাথের চুনির চোখ",
+        "src": "",
+        "cover": "cover/himadri/rc.png"
+    }, {
+        "name": "রাক্ষুসে নেকড়ে",
+        "src": "",
+        "cover": "cover/himadri/rn.png"
+    }, {
+        "name": "সূর্য মন্দিরের শেষ প্রহরী",
+        "src": "",
+        "cover": "cover/himadri/sp.png"
+    }],
+
+     "Humayun": [{
+        "name": "মিসির আলি অমনিবাস ১",
+        "src": "",
+        "cover": "cover/humayun/ma.png"
+    }, {
+        "name": "মিসির আলি অমনিবাস ২",
+        "src": "",
+        "cover": "cover/humayun/ma.png"
+    }, {
+        "name": "মিসির আলি অমনিবাস ৩",
+        "src": "",
+        "cover": "cover/humayun/ma.png"
+    }, {
+        "name": "সায়েন্স ফিকশন সমগ্র ১",
+        "src": "",
+        "cover": "cover/humayun/sf.png"
+    }, {
+        "name": "সায়েন্স ফিকশন সমগ্র ২",
+        "src": "",
+        "cover": "cover/humayun/sf2.png"
+    }, {
+        "name": "সায়েন্স ফিকশন সমগ্র ৩",
+        "src": "",
+        "cover": "cover/humayun/sf3.png"
+    }],
+
+     "Indranil": [{
+        "name": "কর্কটকান্তি",
+        "src": "",
+        "cover": "cover/indranil/k.png"
+    }, {
+        "name": "শেষ নাহি যে",
+        "src": "",
+        "cover": "cover/indranil/sj.png"
+    }, {
+        "name": "হৃদয়ের শব্দ",
+        "src": "",
+        "cover": "cover/indranil/hs.png"
+    }],
+
+     "Kaushik": [{
+        "name": "আঁধার আখ্যান",
+        "src": "",
+        "cover": "cover/kaushik/a.png"
+    }, {
+        "name": "নোলা",
+        "src": "",
+        "cover": "cover/kaushik/n.png"
+    }, {
+        "name": "মগজাস্ত্র",
+        "src": "",
+        "cover": "cover/kaushik/m.png"
+    }, {
+        "name": "সূর্যতামসি",
+        "src": "",
+        "cover": "cover/kaushik/st.png"
+    }],
+
+     "Krishnendu": [{
+        "name": "অচেনা স্রোত",
+        "src": "",
+        "cover": "cover/krishnendu/os.png"
+    }, {
+        "name": "অন্তরাল",
+        "src": "",
+        "cover": "cover/krishnendu/o.png"
+    }, {
+        "name": "তুষার চিতার সন্ধানে",
+        "src": "",
+        "cover": "cover/krishnendu/ts.png"
+    }, {
+        "name": "দিনের শেষে",
+        "src": "",
+        "cover": "cover/krishnendu/ds.png"
+    }, {
+        "name": "পঞ্চাশটি গল্প",
+        "src": "",
+        "cover": "cover/krishnendu/pg.png"
+    }, {
+        "name": "সেনোরিটা",
+        "src": "",
+        "cover": "cover/krishnendu/s.png"
+    }],
+     "Leela": [{
+        "name": "দিন দুপুরে",
+        "src": "",
+        "cover": "cover/leela/dd.png"
+    }, {
+        "name": "রচনাসমগ্র",
+        "src": "",
+        "cover": "cover/leela/rs.png"
+    }, {
+        "name": "সেরা ভূত সেরা গোয়েন্দা",
+        "src": "",
+        "cover": "cover/leela/sv.png"
+    }],
 }
 
 
@@ -379,6 +625,176 @@ function displayFunc() {
                         <img src="${authors.Buddhadeb[i].cover}" alt="">
                         <hr>
                         <figcaption>${authors.Buddhadeb[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Debarati":
+            document.getElementById("authorImg").setAttribute('src', 'author/debarati.jpeg');
+            for (i = 0; i < authors.Debarati.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Debarati[i].src}" target="_blank">
+                        <img src="${authors.Debarati[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Debarati[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+             case "Debojyoti":
+            document.getElementById("authorImg").setAttribute('src', 'image/author.jpg');
+            for (i = 0; i < authors.Debojyoti.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Debojyoti[i].src}" target="_blank">
+                        <img src="${authors.Debojyoti[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Debojyoti[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+            case "Dipika":
+            document.getElementById("authorImg").setAttribute('src', 'author/dipika.jpg');
+            for (i = 0; i < authors.Dipika.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Dipika[i].src}" target="_blank">
+                        <img src="${authors.Dipika[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Dipika[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+            case "Hemendra":
+            document.getElementById("authorImg").setAttribute('src', 'author/hemendra.jpeg');
+            for (i = 0; i < authors.Hemendra.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Hemendra[i].src}" target="_blank">
+                        <img src="${authors.Hemendra[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Hemendra[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+            case "Himadri":
+            document.getElementById("authorImg").setAttribute('src', 'author/himadri.jpg');
+            for (i = 0; i < authors.Himadri.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Himadri[i].src}" target="_blank">
+                        <img src="${authors.Himadri[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Himadri[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Humayun":
+            document.getElementById("authorImg").setAttribute('src', 'author/humayun.jpeg');
+            for (i = 0; i < authors.Humayun.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Humayun[i].src}" target="_blank">
+                        <img src="${authors.Humayun[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Humayun[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Indranil":
+            document.getElementById("authorImg").setAttribute('src', 'image/author.jpg');
+            for (i = 0; i < authors.Indranil.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Indranil[i].src}" target="_blank">
+                        <img src="${authors.Indranil[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Indranil[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+            case "Kaushik":
+            document.getElementById("authorImg").setAttribute('src', 'author/kaushik.jpeg');
+            for (i = 0; i < authors.Kaushik.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Kaushik[i].src}" target="_blank">
+                        <img src="${authors.Kaushik[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Kaushik[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+            case "Krishnendu":
+            document.getElementById("authorImg").setAttribute('src', 'author/krishnendu.jpg');
+            for (i = 0; i < authors.Krishnendu.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Krishnendu[i].src}" target="_blank">
+                        <img src="${authors.Krishnendu[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Krishnendu[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Leela":
+            document.getElementById("authorImg").setAttribute('src', 'author/leela.jpg');
+            for (i = 0; i < authors.Leela.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Leela[i].src}" target="_blank">
+                        <img src="${authors.Leela[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Leela[i].name}</figcaption>
                     </a>
                     </figure>`
                 div.setAttribute('class', 'div');

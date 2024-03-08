@@ -23,9 +23,12 @@ figure {
 	}
 
 }
+
 hr {
-    margin: 0.5rem 0;
+	margin: 0.5rem 0;
 }
+
+/*navigation---------------------------------------------------------------------------*/
 .navbar {
 	background: #031f4b;
 }
@@ -59,7 +62,7 @@ hr {
 	background: white;
 }
 
-/*nav end-------------------------*/
+/*nav end------------------------------------------------------*/
 .intro {
 	height: 100%;
 	background: #f9d48d;
@@ -78,7 +81,7 @@ hr {
 	aspect-ratio: 1;
 }
 
-/*intro ends------------*/
+/*intro ends-----------------------------------------------------*/
 #author {
 	border-bottom: 1px solid #80808038;
 	background: #b11235ad;
@@ -119,6 +122,7 @@ select {
 			width: 100%;
 			aspect-ratio: 1;
 			border-radius: 5px;
+			animation: fading 1.5s linear forwards;
 		}
 
 	}
@@ -129,7 +133,18 @@ select {
 	font-family: "Noto Serif Bengali", serif;
 }
 
-/*author end----------------------*/
+@keyframes fading {
+	0% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+
+}
+
+/*author block end-------------------------------------------------------*/
 .genre {
 	width: 65%;
 	aspect-ratio: 1;
@@ -153,17 +168,7 @@ select {
 
 }
 
-@keyframes fading {
-	0% {
-		opacity: 0;
-	}
-
-	100% {
-		opacity: 1;
-	}
-
-}
-
+/*all genre end---------------------------------------------------*/
 .footer {
 	background: #031f4b;
 
@@ -174,6 +179,7 @@ select {
 
 }
 
+/*footer end--------------------------------------*/
 @media screen and (max-width:580px) {
 	.dropdown-menu {
 		margin: 0;
@@ -215,6 +221,7 @@ select {
 
 }
 
+/*swiper--------------------------------------------*/
 .swiper {
 	width: 100%;
 }

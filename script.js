@@ -169,498 +169,498 @@ let authors = {
 
     "Binod": [{
         "name": "কাল ভৈরবের ঘাট",
-        "src": "",
+        "src": "https://drive.google.com/file/d/12QY7Vb_oTnFIShUtjz2NXxCHnKgE_4er/view?usp=drivesdk",
         "cover": "cover/binod/kvg.png"
     }, {
         "name": "কালো গল্প",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1hSQ0BqXUD9hKQjbMwA62IHZ8JpjGgB9u/view?usp=drivesdk",
         "cover": "cover/binod/kg.png"
     }, {
         "name": "গভীর জালের রহস্য",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1zt9mPqYlJRav_PF_3_Ts2UU9y5FsQtoo/view?usp=drivesdk",
         "cover": "cover/binod/gr.png"
     }, {
         "name": "ডানাওয়ালা মানুষ",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1RVq2sWdSr8_gC1aH8q17I9elu9-7rLWg/view?usp=drivesdk",
         "cover": "cover/binod/dm.png"
     }, {
         "name": "নতুন গল্প ২৫",
-        "src": "",
+        "src": "https://drive.google.com/file/d/13HTgFBQP-dfZeBMPAtn0R3hvpwpIQsyU/view?usp=drivesdk",
         "cover": "cover/binod/ng.png"
     }],
 
     "Buddhadeb": [{
         "name": "ঋজুদা সমগ্র ১",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1Jkd_op5beWpmF9RsoPBEvyaNjy9BE5zR/view?usp=drivesdk",
         "cover": "cover/buddhadeb/r1.png"
     }, {
         "name": "ঋজুদা সমগ্র ২",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1tD3AYb_iHvI4jmCpw_C-uYX2Bjoo8sA-/view?usp=drivesdk",
         "cover": "cover/buddhadeb/r2.png"
     }, {
         "name": "ঋজুদা সমগ্র ৩",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1YdA-4Kp08tBhHag2cvXrop_W06IefrMA/view?usp=drivesdk",
         "cover": "cover/buddhadeb/r3.png"
     }, {
         "name": "ঋজুদা সমগ্র ৪",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1Df_3sRFOqx_a0cE9WQDK86ZnGwKq087m/view?usp=drivesdk",
         "cover": "cover/buddhadeb/r4.png"
     }, {
         "name": "ঋজুদা সমগ্র ৫",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1sXCQNeuqiB1tY8KDJQrcUfb2eKNIWfbt/view?usp=drivesdk",
         "cover": "cover/buddhadeb/r5.png"
     }],
 
     "Debarati": [{
         "name": "অঘোরে ঘুমিয়ে শিব",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1hr6E1kFrgwtySFWlNFszu0lQDYG_luHc/view?usp=drivesdk",
         "cover": "cover/debarati/os.png"
     }, {
         "name": "দিওতিমা",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1DIznLOTwQH3GYenjjFbwmI-LrSi9xSuh/view?usp=drivesdk",
         "cover": "cover/debarati/d.png"
     }, {
         "name": "নরক সংকেত",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1YCmLZyF3FB_aB6tA1_TDElKpbb49Q2KC/view?usp=drivesdk",
         "cover": "cover/debarati/ns.png"
     }, {
         "name": "নারাচ",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1MI5mpGmgXucRJZk4InvY5y_tZIUfQzkI/view?usp=drivesdk",
         "cover": "cover/debarati/n.png"
     }, {
         "name": "নির্বাচিত ৪২",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1qO5oyk2oV12yBVfkCD_ncEBPIK_3MAyz/view?usp=drivesdk",
         "cover": "cover/debarati/nb.png"
     }, {
         "name": "হারিয়ে যাওয়া খুনিরা",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1_4EQJrQhLjwy-ygN38LRvUWgvnZlT4qI/view?usp=drivesdk",
         "cover": "cover/debarati/hk.png"
     }],
 
     "Debojyoti": [{
         "name": "ওরা মানুষ ছিল না",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1Q3iT1eHNuz2aqw1gRb6YczgkycyDKrJE/view?usp=drivesdk",
         "cover": "cover/debojyoti/om.png"
     }, {
         "name": "পংখিলালের গুহা",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1bJTzZs6G-2stL_pnWEjgRXLke1Wh3V9c/view?usp=drivesdk",
         "cover": "cover/debojyoti/pg.png"
     }],
 
     "Dipika": [{
         "name": "চন্দ্রপ্রতাপগরের আতঙ্ক",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1kphj2trybGMlMZO0Rh76cDwJQdKmPDOn/view?usp=drivesdk",
         "cover": "cover/dipika/cpa.png"
     }, {
         "name": "পাতালকোট",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1mF8pWI3XWlIybobVrQ4jzqdceOggBHMA/view?usp=drivesdk",
         "cover": "cover/dipika/p.png"
     }],
 
     "Hemendra": [{
         "name": "অজানা দ্বীপের রানী",
-        "src": "",
+        "src": "https://drive.google.com/file/d/136rGJxj0xBVm63qOjlWlf4SoXXLeABVq/view?usp=drivesdk",
         "cover": "cover/hemendra/or.png"
     }, {
         "name": "অদৃশ্য মানুষ",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1bxhXpm0h6mQ5xDmvs-WXB4OL5LyLvLux/view?usp=drivesdk",
         "cover": "cover/hemendra/om.png"
     }, {
         "name": "কুমার-বিমলের অ্যাডভেঞ্চার সমগ্র",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1bumm1gfbt_teOHju3ZGeGXVFrB1-Amk9/view?usp=drivesdk",
         "cover": "cover/hemendra/kb.png"
     }, {
         "name": "গোয়েন্দা কাহিনী সমগ্র",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1GrKtwKo20L_60GsLw_-m1hshc55Li7h_/view?usp=drivesdk",
         "cover": "cover/hemendra/gs.png"
     }, {
         "name": "ভয় সমগ্র",
-        "src": "",
+        "src": "https://drive.google.com/file/d/19uw0ggUW6QCQOmCA9DP3XdjLnqEOkti_/view?usp=drivesdk",
         "cover": "cover/hemendra/bs.png"
     }, {
         "name": "ভৌতিক সমগ্র",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1qZ84re2k0Mf8rZkJ3Y5KRxPYhxYUJBhJ/view?usp=drivesdk",
         "cover": "cover/hemendra/vs.png"
     }, {
         "name": "রহস্য রোমাঞ্চ সমগ্র",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1bd3u9hqK9j1EUIe3rzsLT2EGp5mEljcR/view?usp=drivesdk",
         "cover": "cover/hemendra/rs.png"
     }, {
         "name": "রহস্যের আলোছায়া",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1z0ADlKAnzumEXbkkuZ4c4ASfVYjRBC1a/view?usp=drivesdk",
         "cover": "cover/hemendra/rc.png"
     }],
 
     "Himadri": [{
         "name": "অপরাজেয়",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1vmuWr1_ZbbyUkcDhpCtV4vskxk29FE3d/view?usp=drivesdk",
         "cover": "cover/himadri/a.png"
     }, {
         "name": "অ্যাডভেঞ্চার সমগ্র",
-        "src": "",
+        "src": "https://drive.google.com/file/d/132ZmBVuxCUtODTfkSg84huq_czwpFj1f/view?usp=drivesdk",
         "cover": "cover/himadri/as.png"
     }, {
         "name": "অ্যাডভেঞ্চার সমগ্র ২",
-        "src": "",
+        "src": "https://drive.google.com/file/d/17zPkzurf5t5ugsmTndKpdFRarSWfASKK/view?usp=drivesdk",
         "cover": "cover/himadri/ha2.png"
     }, {
         "name": "অ্যাডভেঞ্চার সমগ্র ৪",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1D6XUEQbdcnb37C3b_9DkDvz4Ab5tOfXX/view?usp=drivesdk",
         "cover": "cover/himadri/ha4.png"
     }, {
         "name": "আঁধার রাতের বন্ধু",
-        "src": "",
+        "src": "https://drive.google.com/file/d/10EZ-msTQI5HCkUAI4duWBZ7jfbLY_Svm/view?usp=drivesdk",
         "cover": "cover/himadri/ab.png"
     }, {
         "name": "এডভেঞ্চার ভয়ংকর",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1l-72O95zgQrD-pMAmhcx3UEVaMGbYhOM/view?usp=drivesdk",
         "cover": "cover/himadri/av.png"
     }, {
         "name": "কালো ঘুড়ি",
-        "src": "",
+        "src": "https://drive.google.com/file/d/15N34l-6PtKY7tdyKiS7W9pgIKiq591ya/view?usp=drivesdk",
         "cover": "cover/himadri/kg.png"
     }, {
         "name": "চন্দ্রভাগার চাঁদ",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1ZC00PbUq9M0pu2IFQbInjKak4jKIuHFj/view?usp=drivesdk",
         "cover": "cover/himadri/cc.png"
     }, {
         "name": "জীবন্ত উপবীত",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1xnbai3Ngx_yBCI8cZG851FEu7Zda7NWY/view?usp=drivesdk",
         "cover": "cover/himadri/ju.png"
     }, {
         "name": "ঝুনঝুন প্রাসাদের ছায়ামূর্তি",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1Fak8IZc86JtKZ26a4e0EKRsj40Id4Bcv/view?usp=drivesdk",
         "cover": "cover/himadri/jc.png"
     }, {
         "name": "নেকড়ে খামার",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1MLn-pSNqZqkN9wnatYo65lWVfHcScbs4/view?usp=drivesdk",
         "cover": "cover/himadri/nk.png"
     }, {
         "name": "ভয়ঙ্কর স্বীকারোক্তি",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1QBQXHcZO6gs02hfYowp1eCVJJMvaO8CJ/view?usp=drivesdk",
         "cover": "cover/himadri/vs.png"
     }, {
         "name": "রাক্ষুসে নেকড়ে",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1yeNfW4FUH-ivoXSEy0tJHKk6XPBe2O66/view?usp=drivesdk",
         "cover": "cover/himadri/rn.png"
     }, {
         "name": "রানি হাটশেপসুটের মমি",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1gNzIr4nHYVXjKAjPL_yhHxRPbjAaFkqM/view?usp=drivesdk",
         "cover": "cover/himadri/rm.png"
     }, {
         "name": "রুদ্রনাথের চুনির চোখ",
-        "src": "",
+        "src": "https://drive.google.com/file/d/19699MzT3RDV5livoTVvM0zHOmPqry-Nl/view?usp=drivesdk",
         "cover": "cover/himadri/rc.png"
     }, {
         "name": "রাক্ষুসে নেকড়ে",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1yeNfW4FUH-ivoXSEy0tJHKk6XPBe2O66/view?usp=drivesdk",
         "cover": "cover/himadri/rn.png"
     }, {
         "name": "সূর্য মন্দিরের শেষ প্রহরী",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1vIPOZeXxzfxDfFY0B4wn7zmCgTWCT3Md/view?usp=drivesdk",
         "cover": "cover/himadri/sp.png"
     }],
 
     "Humayun": [{
         "name": "মিসির আলি অমনিবাস ১",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1WMCxt-sdujHo5YfYv1uHV2jTHMDS4rvN/view?usp=drivesdk",
         "cover": "cover/humayun/ma.png"
     }, {
         "name": "মিসির আলি অমনিবাস ২",
-        "src": "",
+        "src": "https://drive.google.com/file/d/10GgiKjUc_iV9oQDk9QhE47rRKdcKjMNi/view?usp=drivesdk",
         "cover": "cover/humayun/ma.png"
     }, {
         "name": "মিসির আলি অমনিবাস ৩",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1HCM5BIzA9gcYfT9Bqg_hxifskSIPON0V/view?usp=drivesdk",
         "cover": "cover/humayun/ma.png"
     }, {
         "name": "সায়েন্স ফিকশন সমগ্র ১",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1FLBgM7zOcNLvFCO2ZsVx_ecaLSBCw_9l/view?usp=drivesdk",
         "cover": "cover/humayun/sf.png"
     }, {
         "name": "সায়েন্স ফিকশন সমগ্র ২",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1GO-pl1j-yW8W5i6TXDiieKtw7LtNSf3z/view?usp=drivesdk",
         "cover": "cover/humayun/sf2.png"
     }, {
         "name": "সায়েন্স ফিকশন সমগ্র ৩",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1fiEhTgF_xeJHkUZyir92iCKjvohd7SAF/view?usp=drivesdk",
         "cover": "cover/humayun/sf3.png"
     }],
 
     "Indranil": [{
         "name": "কর্কটকান্তি",
-        "src": "",
+        "src": "https://drive.google.com/file/d/16DRlmbJtaCHvDWynBIdGPvT08gcmJzF9/view?usp=drivesdk",
         "cover": "cover/indranil/k.png"
     }, {
         "name": "শেষ নাহি যে",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1ViiOzbAvQyH4Ai2knlDc1YR3Mtgaus1J/view?usp=drivesdk",
         "cover": "cover/indranil/sj.png"
     }, {
         "name": "হৃদয়ের শব্দ",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1EgPe4foM1JivjYDKdDAdHXCoK2ttj6Mb/view?usp=drivesdk",
         "cover": "cover/indranil/hs.png"
     }],
 
     "Kaushik": [{
         "name": "আঁধার আখ্যান",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1sl24BeGL9C2X5fb0oxFOSSdPIzt19lj8/view?usp=drivesdk",
         "cover": "cover/kaushik/a.png"
     }, {
         "name": "নোলা",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1xUorBqZglNqV4TASWeKYpVtFhu6sfJVw/view?usp=drivesdk",
         "cover": "cover/kaushik/n.png"
     }, {
         "name": "মগজাস্ত্র",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1R8kxqmaxfXiLP9heBP5sQaYWElyEkP7l/view?usp=drivesdk",
         "cover": "cover/kaushik/m.png"
     }, {
         "name": "সূর্যতামসি",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1vnc0xZz4KMqcUGb15vpp6h0q7cGxjJGz/view?usp=drivesdk",
         "cover": "cover/kaushik/st.png"
     }],
 
     "Krishnendu": [{
         "name": "অচেনা স্রোত",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1oWNTwEMbsByvMK4BQ0p12RCjyoXkaS_y/view?usp=drivesdk",
         "cover": "cover/krishnendu/os.png"
     }, {
         "name": "অন্তরাল",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1v-FkmLUP6P5MSYx_3KIXYMrPPP_zbwXq/view?usp=drivesdk",
         "cover": "cover/krishnendu/o.png"
     }, {
         "name": "তুষার চিতার সন্ধানে",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1XmGzeNPlrVkUPM9GaAEWhvKacEzYcHCC/view?usp=drivesdk",
         "cover": "cover/krishnendu/ts.png"
     }, {
         "name": "দিনের শেষে",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1DXmTUbulEY_RySGOc7zrgIihbOj3Kzg2/view?usp=drivesdk",
         "cover": "cover/krishnendu/ds.png"
     }, {
         "name": "পঞ্চাশটি গল্প",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1NuAbSC_nMd7Hybsn1LS12HdmuduX84iU/view?usp=drivesdk",
         "cover": "cover/krishnendu/pg.png"
     }, {
         "name": "সেনোরিটা",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1L3BMuytu0Qp6p6AyYvGoRDHvmU1X2_SR/view?usp=drivesdk",
         "cover": "cover/krishnendu/s.png"
     }],
     "Leela": [{
         "name": "দিন দুপুরে",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1UjHKN6DJxeAPIsoOE4gvUR9Of3rrkWW2/view?usp=drivesdk",
         "cover": "cover/leela/dd.png"
     }, {
         "name": "রচনাসমগ্র",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1DyEfih6DQtjUENqsnz5nuPH4SVLZOI64/view?usp=drivesdk",
         "cover": "cover/leela/rs.png"
     }, {
         "name": "সেরা ভূত সেরা গোয়েন্দা",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1foEwC_D2eqmtLt8sRwDpKg0WPe1DSqv_/view?usp=drivesdk",
         "cover": "cover/leela/sv.png"
     }],
 
     "Manoj": [{
         "name": "৫×৫ পচিশ",
-        "src": "",
+        "src": "https://drive.google.com/file/d/11397tq3kkU7a_Os8pw1axi1i35tGC_aA/view?usp=drivesdk",
         "cover": "cover/manoj/p.png"
     }, {
         "name": "এবং কালরাত্রি",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1GTF_Z5Fk96SAnnoI65FeAWasSFKwdI7m/view?usp=drivesdk",
         "cover": "cover/manoj/k.png"
     }, {
         "name": "কালসন্ধ্যা",
-        "src": "",
+        "src": "https://drive.google.com/file/d/11PDzGykAZ8qohsu4pPpcmwP3CPUBwoVo/view?usp=drivesdk",
         "cover": "cover/manoj/ks.png"
     }, {
         "name": "দময়ন্তী সমগ্র ১",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1z-TqruaIEY9Jyp8_zvb3-On8TE6Ukldt/view?usp=drivesdk",
         "cover": "cover/manoj/ds1.png"
     }, {
         "name": "দময়ন্তী সমগ্র ২",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1JG5Zdx4ITx0oFKqHx-XxclLxIAvSWGPv/view?usp=drivesdk",
         "cover": "cover/manoj/ds2.png"
     }],
 
     "Mashudul": [{
         "name": "ডক্টর কিজিল",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1gc5_ri8KUaYFHn8-gSvQHIdaIHgSplRN/view?usp=drivesdk",
         "cover": "cover/mashudul/dk.png"
     }, {
         "name": "ভেন্ট্রিলোকুইস্ট",
-        "src": "",
+        "src": "https://drive.google.com/file/d/13TEzSu8Q4zJlemcBW-23Or0WL1fckIBn/view?usp=drivesdk",
         "cover": "cover/mashudul/v.png"
     }],
 
     "Zafar": [{
         "name": "সায়েন্স ফিকশান সমগ্র ১",
-        "src": "",
+        "src": "https://drive.google.com/file/d/19DDCla69u1MzB_2BrSWTmoRnrBk5Solw/view?usp=drivesdk",
         "cover": "cover/zafar/ss.png"
     }, {
         "name": "সায়েন্স ফিকশান সমগ্র ২",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1bjEBCNaUUFQcV6ErR-OJPI992_kOquCb/view?usp=drivesdk",
         "cover": "cover/zafar/ss.png"
     }, {
         "name": "সায়েন্স ফিকশান সমগ্র ৩",
-        "src": "",
+        "src": "https://drive.google.com/file/d/16_uPbORLPIY2eGF5yWolma1xDit0Uw7n/view?usp=drivesdk",
         "cover": "cover/zafar/ss.png"
     }, {
         "name": "সায়েন্স ফিকশান সমগ্র ৪",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1DVa0XQXblUQGOF5cTmLh71XkedlG7yZi/view?usp=drivesdk",
         "cover": "cover/zafar/ss.png"
     }, {
         "name": "সায়েন্স ফিকশান সমগ্র ৫",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1EMDCFEdyoPsi4WABrsPpl6QhJIBJdnmJ/view?usp=drivesdk",
         "cover": "cover/zafar/ss.png"
     }, ],
 
     "Nabarun": [{
         "name": "উপন্যাস সমগ্র",
-        "src": "",
+        "src": "https://drive.google.com/file/d/14G21kLPTrh7eOeKEzuIxUSyOoh_Up0Cd/view?usp=drivesdk",
         "cover": "cover/nabarun/us.png"
     }, {
         "name": "ছোটগল্প",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1_dHX55nQxqozcc90ICwsnrem6KiBxViE/view?usp=drivesdk",
         "cover": "cover/nabarun/cg.png"
     }],
 
     "Narayan1": [{
         "name": "অন্ধকারের আগন্তুক",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1JDpZh57H80a0OVNTThJGpoO8-EPH6oNG/view?usp=drivesdk",
         "cover": "cover/narayan1/oa.png"
     }, {
         "name": "টেনিদা সমগ্র",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1n8yDnMXNne7teBhl5nbaykU5vboVumKR/view?usp=drivesdk",
         "cover": "cover/narayan1/ts.png"
     }],
 
     "Narayan2": [{
         "name": "অবাক পৃথিবী",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1Ga_MFy2CEaU0kD_xaOhMgUGJRou7loCL/view?usp=drivesdk",
         "cover": "cover/narayan2/op.png"
     }, {
         "name": "কাঁটায় কাঁটায় ১",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1cdipAvO68ARIrLXCBFpqztR-CZ3qzz4r/view?usp=drivesdk",
         "cover": "cover/narayan2/kk.png"
     }, {
         "name": "কাঁটায় কাঁটায় ২",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1b2CUmDIoIayiOaI8rUa5mzKQffUcvjDJ/view?usp=drivesdk",
         "cover": "cover/narayan2/kk.png"
     }, {
         "name": "কাঁটায় কাঁটায় ৩",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1N5pMV6bi0klIlXs6i4MpcB5LTFFSDJDW/view?usp=drivesdk",
         "cover": "cover/narayan2/kk.png"
     }, {
         "name": "কাঁটায় কাঁটায় ৪",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1s4H-ejFVuB2N5ro4kxZC1D8DtJpRNKCq/view?usp=drivesdk",
         "cover": "cover/narayan2/kk.png"
     }, {
         "name": "কাঁটায় কাঁটায় ৫",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1YekS9eWsJsruO-TSq_xOuLWeO1T5c-yg/view?usp=drivesdk",
         "cover": "cover/narayan2/kk.png"
     }, {
         "name": "কাঁটায় কাঁটায় ৬",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1UaNzMYT72-vzTG7h5W9wN3HZLrrQP2hh/view?usp=drivesdk",
         "cover": "cover/narayan2/kk.png"
     }, {
         "name": "দশটি উপন্যাস",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1xWlCdS_8bqcm7bApqnTzeTz7Xqw57ErE/view?usp=drivesdk",
         "cover": "cover/narayan2/du.png"
     }],
 
     "Nimai": [{
         "name": "পাঁচটি রোম্যান্টিক উপন্যাস",
-        "src": "",
+        "src": "https://drive.google.com/file/d/173w2M_sef3b2JjzzzBZt90tpZBylOdXj/view?usp=drivesdk",
         "cover": "cover/nimai/pu.png"
     }, {
         "name": "প্রেমের গল্প",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1gEQlWoHpwZfK4AY7vzWkNF-T7_myDjJj/view?usp=drivesdk",
         "cover": "cover/nimai/pg.png"
     }],
 
     "Prachet": [{
         "name": "এক যে ছিল সাগর",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1tABUfzKMjL00xmQrEExmY0HosOo0zt5g/view?usp=drivesdk",
         "cover": "cover/prachet/es.png"
     }, {
         "name": "নুড়ি পাথরের দিনগুলি",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1eF0a5hSmyKkw3ufR-2d7E42C76PJB8g5/view?usp=drivesdk",
         "cover": "cover/prachet/nd.png"
     }, {
         "name": "পঞ্চাশটি গল্প",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1wvcwKIBm0OG3FnArHBnWCnLROheLQOwE/view?usp=drivesdk",
         "cover": "cover/prachet/pg.png"
     }, {
         "name": "মুক্ত আবরণে",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1hQ5L_vLCR2OcV-9kHVuEtkvTNSnPs8tI/view?usp=drivesdk",
         "cover": "cover/prachet/ma.png"
     }, {
         "name": "শূন্য খাম",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1wt6e3CMOLU3oD2HHQq3W-Vdyj9NWZCwa/view?usp=drivesdk",
         "cover": "cover/prachet/sk.png"
     }, {
         "name": "সে ইরাবতী",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1PNGHyzO3osf4PUnThydd5bIfdLvAFW9l/view?usp=drivesdk",
         "cover": "cover/prachet/si.png"
     }],
 
     "Premendra": [{
         "name": "কল্পবিজ্ঞান সমগ্র",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1wKDZPCoVFfzTXgkWGzJZUgleadedkIWn/view?usp=drivesdk",
         "cover": "cover/premendra/ks.png"
     }, {
         "name": "ঘনাদা সমগ্র ১",
-        "src": "",
+        "src": "https://drive.google.com/file/d/12IsuLxWe_8jWQT6ONwiVbZmELrp4oH7g/view?usp=drivesdk",
         "cover": "cover/premendra/gs1.png"
     }, {
         "name": "ঘনাদা সমগ্র ২",
-        "src": "",
+        "src": "https://drive.google.com/file/d/129g-pg0WxBlN9J8cCCs55bH_MMlWD1_7/view?usp=drivesdk",
         "cover": "cover/premendra/gs2.png"
     }, {
         "name": "ঘনাদা সমগ্র ৩",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1abccNE2GPpch0yrN0xDf7wsGV2G1xT6e/view?usp=drivesdk",
         "cover": "cover/premendra/gs3.png"
     }, {
         "name": "পরাশর সমগ্র",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1AkCSwkGJDfGKbSlZOJowegl6hIUghJo-/view?usp=drivesdk",
         "cover": "cover/premendra/ps.png"
     }, {
         "name": "ভূত শিকারি মেজো কর্তা",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1GvkS6npRKv-OnEdrMX0ql0NeuhCjqa62/view?usp=drivesdk",
         "cover": "cover/premendra/bm.png"
     }, {
         "name": "মামাবাবু সমগ্র",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1-Zx77WRgPZgroo6GakwseHbQ8tISlDBy/view?usp=drivesdk",
         "cover": "cover/premendra/ms.png"
     }],
 
     "Tagore": [{
         "name": "উপন্যাস সমগ্র",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1LmFcfreu3_A77bSljK4b5ejf0xfQE129/view?usp=drivesdk",
         "cover": "cover/rabindranath/us.png"
     }, {
         "name": "গল্পসমগ্র",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1VnAtf__i2C9mvmn3KU-i-pR2BShMl7dv/view?usp=drivesdk",
         "cover": "cover/rabindranath/gs.png"
     }, {
         "name": "গীতাঞ্জলি",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1HZUA9SaSvVDVmiw28BYrs6qNTSrEkE51/view?usp=drivesdk",
         "cover": "cover/rabindranath/g.png"
     }],
 
     "Rupok": [{
         "name": "একাদশ ইন্দ্রিয়",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1KfbcqVGU8tvrpfB6z9md_FLBDnHPBlkC/view?usp=drivesdk",
         "cover": "cover/rupok/ei.png"
     }, {
         "name": "কালকেতু সমগ্র ১",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1HcnIUxoF1bDC4Kwg1Y67G6c6dRBGDLLy/view?usp=drivesdk",
         "cover": "cover/rupok/ks1.png"
     }, {
         "name": "কালকেতু সমগ্র ২",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1iGl5wLwC-TTFPqkZ1zjgwuAgLD3gBT6m/view?usp=drivesdk",
         "cover": "cover/rupok/ks2.png"
     }, {
         "name": "বিষপাথর",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1vxaY4T3tJxAG9da0AsvENxgXu04PrYKm/view?usp=drivesdk",
         "cover": "cover/rupok/b.png"
     }],
 }

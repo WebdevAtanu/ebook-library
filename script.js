@@ -510,7 +510,41 @@ let authors = {
         "name": "সায়েন্স ফিকশান সমগ্র ৫",
         "src": "https://drive.google.com/file/d/1EMDCFEdyoPsi4WABrsPpl6QhJIBJdnmJ/view?usp=drivesdk",
         "cover": "cover/zafar/ss.png"
-    }, ],
+    }],
+
+    "Nabaneeta": [{
+        "name": "নটী নবনীতা",
+        "src": "https://drive.google.com/file/d/1_7mIMdh4MPr4LENlW22tm46d4e2xZvFk/view?usp=drive_link",
+        "cover": "cover/nabaneeta/n.png"
+    }, {
+        "name": "নানা রসের ৯টি উপন্যাস",
+       "src": "https://drive.google.com/file/d/1xq76U8KSZ_vZY-An9gkfZOowbaZusyGi/view?usp=drive_link",
+        "cover": "cover/nabaneeta/nu.png"
+    }, {
+        "name": "নানারঙের নবনীতা",
+        "src": "https://drive.google.com/file/d/1KU_KSBoM0aqoH_-_mvFsSh14nR1Hmj1u/view?usp=drive_link",
+        "cover": "cover/nabaneeta/nn.png"
+    }, {
+        "name": "পাঁচটি উপন্যাস",
+        "src": "https://drive.google.com/file/d/1MvbOj346ORCizDirAdYieA4HNc-0Xt2c/view?usp=drive_link",
+        "cover": "cover/nabaneeta/pu.png"
+    }, {
+        "name": "বুদ্ধি বেচার সদাগর",
+        "src": "https://drive.google.com/file/d/1cXpNDeaC0eu7C9j_VmSW5eSCOY72-fKK/view?usp=drive_link",
+        "cover": "cover/nabaneeta/bs.png"
+    }, {
+        "name": "রূপকথা সমগ্র",
+        "src": "https://drive.google.com/file/d/1tNISonUjohsenlGjixAyB6VmJnVrj-ZX/view?usp=drive_link",
+        "cover": "cover/nabaneeta/rs.png"
+    }, {
+        "name": "সীতা থেকে শুরু",
+        "src": "https://drive.google.com/file/d/1AmCJ7CvKKZZHoQq4tPKjCdCSCvS0Lp2H/view?usp=drive_link",
+        "cover": "cover/nabaneeta/ss.png"
+    }, {
+        "name": "স্বজনসকাশে",
+        "src": "https://drive.google.com/file/d/16XlhiBZ5e_SyW5tEQYEa-LFic4AKAlE4/view?usp=drive_link",
+        "cover": "cover/nabaneeta/s.png"
+    }],
 
     "Nabarun": [{
         "name": "উপন্যাস সমগ্র",
@@ -662,6 +696,90 @@ let authors = {
         "name": "বিষপাথর",
         "src": "https://drive.google.com/file/d/1vxaY4T3tJxAG9da0AsvENxgXu04PrYKm/view?usp=drivesdk",
         "cover": "cover/rupok/b.png"
+    }],
+
+    "Saikat": [{
+        "name": "অর্কিড রহস্য",
+        "src": "https://drive.google.com/file/d/1dwZD9GowQ_hmnHkJf_OOqdXjIRFfSFsS/view?usp=drive_link",
+        "cover": "cover/saikat/or.png"
+    }, {
+        "name": "অলৌকিক সৈকত",
+        "src": "https://drive.google.com/file/d/1VkgQfS2fHk0j-ex5AUjxDT2y4EukFqa8/view?usp=drive_link",
+        "cover": "cover/saikat/os.png"
+    }, {
+        "name": "কিস্যাওয়ালা",
+        "src": "https://drive.google.com/file/d/1_pR_Nh3VXFRS-Qe0f4c8M_dmNPgphkY-/view?usp=drive_link",
+        "cover": "cover/saikat/kw.png"
+    }, {
+        "name": "খুনি ম্যাজিক",
+        "src": "https://drive.google.com/file/d/1ZMCWvxI4843OI1WiWBqEqvFqmJs2udKI/view?usp=drive_link",
+        "cover": "cover/saikat/km.png"
+    }, {
+        "name": "খেলার নাম খুন",
+        "src": "https://drive.google.com/file/d/10ET-jFz3pO5VpXHePT7RSENlH_u7sLc3/view?usp=drive_link",
+        "cover": "cover/saikat/kk.png"
+    }, {
+        "name": "তিন রক্ত হিম",
+        "src": "https://drive.google.com/file/d/120LshhtbU-9B_YmPXOhqGJ2uoznIQp8i/view?usp=drive_link",
+        "cover": "cover/saikat/th.png"
+    }, {
+        "name": "ফুটিডাঙায় ফাটাফাটি",
+        "src": "https://drive.google.com/file/d/1rbrDfpCr4ThkGlMp58ayMuEzNZGxTy4z/view?usp=drive_link",
+        "cover": "cover/saikat/ff.png"
+    }, {
+        "name": "মরণবিভা",
+        "src": "https://drive.google.com/file/d/1AcXxet2RVOpeZeqmRlIf5F1FHW8YFBkL/view?usp=drive_link",
+        "cover": "cover/saikat/mb.png"
+    }, {
+        "name": "মারাং গ্রামের পান্থশালা",
+        "src": "https://drive.google.com/file/d/1QpAiZ0--8uAmBwiXCzmua_16ICh9Vw3P/view?usp=drive_link",
+        "cover": "cover/saikat/mp.png"
+    }, {
+        "name": "মৃত রাজা জাগো",
+        "src": "https://drive.google.com/file/d/16MWriLV89FTD3XGVdLMbqNcZ_EiRaiEy/view?usp=drive_link",
+        "cover": "cover/saikat/mj.png"
+    }, {
+        "name": "মৃত্যুর নিপুণ শিল্প",
+        "src": "https://drive.google.com/file/d/1UuIOZOb1aw6Gr4piCaLA6dmw1ShZXbez/view?usp=drive_link",
+        "cover": "cover/saikat/ms.png"
+    }, {
+        "name": "শয়তানের সন্তান",
+        "src": "https://drive.google.com/file/d/1BoMIQUH9P1fypEXAmh5UMby6hurGnfrU/view?usp=drive_link",
+        "cover": "cover/saikat/ss.png"
+    }],
+
+    "Samaresh": [{
+        "name": "অর্জুন সমগ্র ১",
+        "src": "",
+        "cover": "cover/samaresh/as1.png"
+    }, {
+        "name": "অর্জুন সমগ্র ২",
+        "src": "",
+        "cover": "cover/samaresh/as2.png"
+    }, {
+        "name": "অর্জুন সমগ্র ৩",
+        "src": "",
+        "cover": "cover/samaresh/as3.png"
+    }, {
+        "name": "অর্জুন সমগ্র ৪",
+        "src": "",
+        "cover": "cover/samaresh/as4.png"
+    }, {
+        "name": "বিপুল নিকট",
+        "src": "",
+        "cover": "cover/samaresh/bn.png"
+    }, {
+        "name": "মনের মতো মন",
+        "src": "",
+        "cover": "cover/samaresh/mm.png"
+    }, {
+        "name": "সমরেশের সেরা ১০১",
+        "src": "",
+        "cover": "cover/samaresh/sh.png"
+    }, {
+        "name": "সাতটি প্রেমের উপন্যাস",
+        "src": "",
+        "cover": "cover/samaresh/sp.png"
     }],
 }
 
@@ -1205,6 +1323,40 @@ function displayFunc() {
                         <img src="${authors.Rupok[i].cover}" alt="">
                         <hr>
                         <figcaption>${authors.Rupok[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Saikat":
+            document.getElementById("authorImg").setAttribute('src', 'author/saikat.jpeg');
+            for (i = 0; i < authors.Saikat.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Saikat[i].src}" target="_blank">
+                        <img src="${authors.Saikat[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Saikat[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Samaresh":
+            document.getElementById("authorImg").setAttribute('src', 'author/samaresh.jpeg');
+            for (i = 0; i < authors.Samaresh.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Samaresh[i].src}" target="_blank">
+                        <img src="${authors.Samaresh[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Samaresh[i].name}</figcaption>
                     </a>
                     </figure>`
                 div.setAttribute('class', 'div');

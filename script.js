@@ -518,7 +518,7 @@ let authors = {
         "cover": "cover/nabaneeta/n.png"
     }, {
         "name": "নানা রসের ৯টি উপন্যাস",
-       "src": "https://drive.google.com/file/d/1xq76U8KSZ_vZY-An9gkfZOowbaZusyGi/view?usp=drive_link",
+        "src": "https://drive.google.com/file/d/1xq76U8KSZ_vZY-An9gkfZOowbaZusyGi/view?usp=drive_link",
         "cover": "cover/nabaneeta/nu.png"
     }, {
         "name": "নানারঙের নবনীতা",
@@ -780,6 +780,442 @@ let authors = {
         "name": "সাতটি প্রেমের উপন্যাস",
         "src": "",
         "cover": "cover/samaresh/sp.png"
+    }],
+
+    "Sanjib": [{
+        "name": "২৫ টি সেরা হাসি",
+        "src": "",
+        "cover": "cover/sanjib/s.png"
+    }, {
+        "name": "অজ্ঞাতবাস",
+        "src": "",
+        "cover": "cover/sanjib/o.png"
+    }, {
+        "name": "একশো বছরের সেরা সরস গল্প",
+        "src": "",
+        "cover": "cover/sanjib/e.png"
+    }, {
+        "name": "তেরোটি উপন্যাস",
+        "src": "",
+        "cover": "cover/sanjib/t.png"
+    }, {
+        "name": "প্রতীক্ষা",
+        "src": "",
+        "cover": "cover/sanjib/p.png"
+    }, {
+        "name": "বড়দের হাসি সমগ্র",
+        "src": "",
+        "cover": "cover/sanjib/h.png"
+    }, {
+        "name": "ভূত সমগ্র",
+        "src": "",
+        "cover": "cover/sanjib/v.png"
+    }, {
+        "name": "মামা সমগ্র",
+        "src": "",
+        "cover": "cover/sanjib/ms.png"
+    }, {
+        "name": "হাসির আড়ালে",
+        "src": "",
+        "cover": "cover/sanjib/ha.png"
+    }],
+
+    "Sasthipada": [{
+        "name": "পঞ্চাশটি ভূতের গল্প",
+        "src": "",
+        "cover": "cover/sasthipada/vg.png"
+    }, {
+        "name": "পাণ্ডব গোয়েন্দা সমগ্র ১",
+        "src": "",
+        "cover": "cover/sasthipada/p1.png"
+    }, {
+        "name": "পাণ্ডব গোয়েন্দা সমগ্র ২",
+        "src": "",
+        "cover": "cover/sasthipada/p2.png"
+    }, {
+        "name": "রহস্য কাহিনী দশ",
+        "src": "",
+        "cover": "cover/sasthipada/rk.png"
+    }],
+
+    "Satyajit": [{
+        "name": "গল্প ১০১",
+        "src": "",
+        "cover": "cover/satyajit/g.png"
+    }, {
+        "name": "তারিণীখুড়োর কীর্তিকলাপ",
+        "src": "",
+        "cover": "cover/satyajit/tk.png"
+    }, {
+        "name": "প্রফেসর শঙ্কু সমগ্র",
+        "src": "",
+        "cover": "cover/satyajit/fs.png"
+    }, {
+        "name": "ফেলুদা সমগ্র ১",
+        "src": "",
+        "cover": "cover/satyajit/fs.png"
+    }, {
+        "name": "ফেলুদা সমগ্র ২",
+        "src": "",
+        "cover": "cover/satyajit/fs.png"
+    }],
+
+    "Sayak": [{
+        "name": "আরিন ও আদিম দেবতার উত্থান",
+        "src": "",
+        "cover": "cover/sayak/a.png"
+    }, {
+        "name": "তার চোখের তারায়",
+        "src": "",
+        "cover": "cover/sayak/t.png"
+    }],
+
+    "Sayantani": [{
+        "name": "কৃষ্ণবেনী",
+        "src": "",
+        "cover": "cover/sayantani/k.png"
+    }, {
+        "name": "তিন রঙের তিন",
+        "src": "",
+        "cover": "cover/sayantani/t.png"
+    }, {
+        "name": "নন্দিনী",
+        "src": "",
+        "cover": "cover/sayantani/n.png"
+    }, {
+        "name": "যেখানে আঁধার নামে",
+        "src": "",
+        "cover": "cover/sayantani/j.png"
+    }],
+
+    "Shantipriyo": [{
+        "name": "আইভরি রহস্য",
+        "src": "",
+        "cover": "cover/shantipriyo/ir.png"
+    }, {
+        "name": "গন্ধ রহস্য",
+        "src": "",
+        "cover": "cover/shantipriyo/gr.png"
+    }, {
+        "name": "বিষমুকুট রহস্য",
+        "src": "",
+        "cover": "cover/shantipriyo/br.png"
+    }, {
+        "name": "যাদুঘর রহস্য",
+        "src": "",
+        "cover": "cover/shantipriyo/jr.png"
+    }, {
+        "name": "হাইজ্যাক রহস্য",
+        "src": "",
+        "cover": "cover/shantipriyo/hr.png"
+    }],
+
+    "Sharadindu": [{
+        "name": "অলৌকিক গল্পসমগ্র",
+        "src": "",
+        "cover": "cover/sharadindu/og.png"
+    }, {
+        "name": "ঐতিহাসিক কাহিনী সমগ্র",
+        "src": "",
+        "cover": "cover/sharadindu/ok.png"
+    }, {
+        "name": "গল্প সংগ্রহ",
+        "src": "",
+        "cover": "cover/sharadindu/gs.png"
+    }, {
+        "name": "ব্যোমকেশ সমগ্র",
+        "src": "",
+        "cover": "cover/sharadindu/bs.png"
+    }],
+
+    "Shirshendu": [{
+        "name": "আটটি উপন্যাস",
+        "src": "",
+        "cover": "cover/shirshendu/au.png"
+    }, {
+        "name": "খুদকুঁড়ো",
+        "src": "",
+        "cover": "cover/shirshendu/kh.png"
+    }, {
+        "name": "ঝুড়ি কুড়ি গল্প",
+        "src": "",
+        "cover": "cover/shirshendu/jk.png"
+    }, {
+        "name": "ধন্যবাদ মাস্টারমশাই",
+        "src": "",
+        "cover": "cover/shirshendu/dm.png"
+    }, {
+        "name": "পনেরোটি শ্রেষ্ঠ প্রেমের উপন্যাস",
+        "src": "",
+        "cover": "cover/shirshendu/pu.png"
+    }, {
+        "name": "বরদাচরণ সমগ্র",
+        "src": "",
+        "cover": "cover/shirshendu/bs.png"
+    }, {
+        "name": "রহস্য সমগ্র",
+        "src": "",
+        "cover": "cover/shirshendu/rs.png"
+    }, {
+        "name": "শীর্ষেন্দুর সেরা ১০১",
+        "src": "",
+        "cover": "cover/shirshendu/sh.png"
+    }],
+
+    "Smaranjit": [{
+        "name": "অদম্য",
+        "src": "",
+        "cover": "cover/smaranjit/ad.png"
+    }, {
+        "name": "অদম্য ২",
+        "src": "",
+        "cover": "cover/smaranjit/ad2.png"
+    }, {
+        "name": "আমাদের সেই শহরে",
+        "src": "",
+        "cover": "cover/smaranjit/a.png"
+    }, {
+        "name": "এটুকু বৃষ্টি",
+        "src": "",
+        "cover": "cover/smaranjit/e.png"
+    }, {
+        "name": "ওয়ারেন দাদুর ধাঁধা বাক্স",
+        "src": "",
+        "cover": "cover/smaranjit/o.png"
+    }, {
+        "name": "পাতা ঝরার মরশুমে",
+        "src": "",
+        "cover": "cover/smaranjit/p.png"
+    }, {
+        "name": "প্রেমের উনিশ কুড়ি",
+        "src": "",
+        "cover": "cover/smaranjit/pk.png"
+    }, {
+        "name": "হিমযুগ",
+        "src": "",
+        "cover": "cover/smaranjit/h.png"
+    }],
+
+    "Suchitra": [{
+        "name": "অচিন পাখি",
+        "src": "",
+        "cover": "cover/suchitra/op.png"
+    }, {
+        "name": "অন্য বসন্ত",
+        "src": "",
+        "cover": "cover/suchitra/o.png"
+    }, {
+        "name": "একা জীবন",
+        "src": "",
+        "cover": "cover/suchitra/ej.png"
+    }, {
+        "name": "কাঁচের দেওয়াল",
+        "src": "",
+        "cover": "cover/suchitra/kd.png"
+    }, {
+        "name": "জলছবি",
+        "src": "",
+        "cover": "cover/suchitra/jc.png"
+    }, {
+        "name": "ঠিকানা নেই",
+        "src": "",
+        "cover": "cover/suchitra/tn.png"
+    }, {
+        "name": "নীল ঘূর্ণি",
+        "src": "",
+        "cover": "cover/suchitra/n.png"
+    }, {
+        "name": "বৃষ্টি নামার পরে",
+        "src": "",
+        "cover": "cover/suchitra/bp.png"
+    }, {
+        "name": "মিতিনমাসি সমগ্র ১",
+        "src": "",
+        "cover": "cover/suchitra/m.png"
+    }, {
+        "name": "মিতিনমাসি সমগ্র ২",
+        "src": "",
+        "cover": "cover/suchitra/m.png"
+    }, {
+        "name": "রূপকথা নয়",
+        "src": "",
+        "cover": "cover/suchitra/r.png"
+    }],
+
+    "Sukanta": [{
+        "name": "তরঙ্গ ওঠে",
+        "src": "",
+        "cover": "cover/sukanta/t.png"
+    }, {
+        "name": "যে বৃষ্টির জন্ম হয়নি",
+        "src": "",
+        "cover": "cover/sukanta/j.png"
+    }, {
+        "name": "রহস্যময় উপত্যকা",
+        "src": "",
+        "cover": "cover/sukanta/r.png"
+    }],
+
+    "Sunil": [{
+        "name": "২৫ টি সেরা রহস্য",
+        "src": "",
+        "cover": "cover/sunil/sr.png"
+    }, {
+        "name": "কাকাবাবু সমগ্র ১",
+        "src": "",
+        "cover": "cover/sunil/ks.png"
+    }, {
+        "name": "কাকাবাবু সমগ্র ২",
+        "src": "",
+        "cover": "cover/sunil/ks.png"
+    }, {
+        "name": "কাকাবাবু সমগ্র ৩",
+        "src": "",
+        "cover": "cover/sunil/ks.png"
+    }, {
+        "name": "কাকাবাবু সমগ্র ৪",
+        "src": "",
+        "cover": "cover/sunil/ks.png"
+    }, {
+        "name": "কাকাবাবু সমগ্র ৫",
+        "src": "",
+        "cover": "cover/sunil/ks.png"
+    }, {
+        "name": "কাকাবাবু সমগ্র ৬",
+        "src": "",
+        "cover": "cover/sunil/ks.png"
+    }, {
+        "name": "সুনীলের সেরা 101",
+        "src": "",
+        "cover": "cover/sunil/s.png"
+    }],
+
+    "Swapan": [{
+        "name": "ড্রাগন সমগ্ৰ ১",
+        "src": "",
+        "cover": "cover/swapan/d1.png"
+    }, {
+        "name": "ড্রাগন সমগ্ৰ ২",
+        "src": "",
+        "cover": "cover/swapan/d2.png"
+    }],
+
+    "Syed": [{
+        "name": "কর্নেল সমগ্র ১",
+        "src": "",
+        "cover": "cover/syed/ks.png"
+    }, {
+        "name": "কর্নেল সমগ্র ২",
+        "src": "",
+        "cover": "cover/syed/ks.png"
+    }, {
+        "name": "কর্নেল সমগ্র ৩",
+        "src": "",
+        "cover": "cover/syed/ks.png"
+    }, {
+        "name": "কর্নেল সমগ্র ৪",
+        "src": "",
+        "cover": "cover/syed/ks.png"
+    }, {
+        "name": "কর্নেল সমগ্র ৫",
+        "src": "",
+        "cover": "cover/syed/ks.png"
+    }, {
+        "name": "কর্নেল সমগ্র ৬",
+        "src": "",
+        "cover": "cover/syed/ks.png"
+    }, {
+        "name": "কর্নেল সমগ্র ৭",
+        "src": "",
+        "cover": "cover/syed/ks.png"
+    }, {
+        "name": "কর্নেল সমগ্র ৮",
+        "src": "",
+        "cover": "cover/syed/ks.png"
+    }, {
+        "name": "কর্নেল সমগ্র ৯",
+        "src": "",
+        "cover": "cover/syed/ks.png"
+    }, {
+        "name": "কর্নেল সমগ্র ১০",
+        "src": "",
+        "cover": "cover/syed/ks.png"
+    }, {
+        "name": "কর্নেল সমগ্র ১১",
+        "src": "",
+        "cover": "cover/syed/ks.png"
+    }, {
+        "name": "কর্নেল সমগ্র ১২",
+        "src": "",
+        "cover": "cover/syed/ks.png"
+    }, {
+        "name": "কর্নেল সমগ্র ১৩",
+        "src": "",
+        "cover": "cover/syed/ks.png"
+    }, {
+        "name": "কর্নেল সমগ্র ১৪",
+        "src": "",
+        "cover": "cover/syed/ks.png"
+    }, {
+        "name": "কর্নেল সমগ্র ১৫",
+        "src": "",
+        "cover": "cover/syed/ks.png"
+    }, {
+        "name": "কর্নেল সমগ্র ১৬",
+        "src": "",
+        "cover": "cover/syed/ks.png"
+    }, {
+        "name": "ভুত গোয়েন্দা রহস্য",
+        "src": "",
+        "cover": "cover/syed/vgr.png"
+    }, {
+        "name": "ভৌতিক গল্প সমগ্র",
+        "src": "",
+        "cover": "cover/syed/vg.png"
+    }, {
+        "name": "সাহিত্যের সেরা গল্প",
+        "src": "",
+        "cover": "cover/syed/s.png"
+    }],
+
+    "Tapan": [{
+        "name": "গোয়েন্দা গার্গী",
+        "src": "",
+        "cover": "cover/tapan/g.png"
+    }, {
+        "name": "গোয়েন্দা গার্গী সমগ্র",
+        "src": "",
+        "cover": "cover/tapan/gs.png"
+    }],
+
+    "Tridib": [{
+        "name": "গোপন প্রেমের গল্প",
+        "src": "",
+        "cover": "cover/tridip/g.png"
+    }, {
+        "name": "জগুমামা রহস্য সমগ্র ১",
+        "src": "",
+        "cover": "cover/tridip/j1.png"
+    }, {
+        "name": "জগুমামা রহস্য সমগ্র ২",
+        "src": "",
+        "cover": "cover/tridip/j2.png"
+    }, {
+        "name": "জগুমামা রহস্য সমগ্র ৩",
+        "src": "",
+        "cover": "cover/tridip/j3.png"
+    }, {
+        "name": "জগুমামা রহস্য সমগ্র ৪",
+        "src": "",
+        "cover": "cover/tridip/j4.png"
+    }, {
+        "name": "ভৌতিক অলৌকিক",
+        "src": "",
+        "cover": "cover/tridip/v.png"
+    }, {
+        "name": "শেষনাগের বিষ",
+        "src": "",
+        "cover": "cover/tridip/s.png"
     }],
 }
 
@@ -1357,6 +1793,278 @@ function displayFunc() {
                         <img src="${authors.Samaresh[i].cover}" alt="">
                         <hr>
                         <figcaption>${authors.Samaresh[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Sanjib":
+            document.getElementById("authorImg").setAttribute('src', 'author/sanjib.jpeg');
+            for (i = 0; i < authors.Sanjib.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Sanjib[i].src}" target="_blank">
+                        <img src="${authors.Sanjib[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Sanjib[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Sasthipada":
+            document.getElementById("authorImg").setAttribute('src', 'author/sasthipada.jpeg');
+            for (i = 0; i < authors.Sasthipada.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Sasthipada[i].src}" target="_blank">
+                        <img src="${authors.Sasthipada[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Sasthipada[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Satyajit":
+            document.getElementById("authorImg").setAttribute('src', 'author/satyajit.jpg');
+            for (i = 0; i < authors.Satyajit.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Satyajit[i].src}" target="_blank">
+                        <img src="${authors.Satyajit[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Satyajit[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Sayak":
+            document.getElementById("authorImg").setAttribute('src', 'author/sayak.jpeg');
+            for (i = 0; i < authors.Sayak.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Sayak[i].src}" target="_blank">
+                        <img src="${authors.Sayak[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Sayak[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Sayantani":
+            document.getElementById("authorImg").setAttribute('src', 'author/sayantani.jpeg');
+            for (i = 0; i < authors.Sayantani.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Sayantani[i].src}" target="_blank">
+                        <img src="${authors.Sayantani[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Sayantani[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Shantipriyo":
+            document.getElementById("authorImg").setAttribute('src', 'author/shanti.jpeg');
+            for (i = 0; i < authors.Shantipriyo.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Shantipriyo[i].src}" target="_blank">
+                        <img src="${authors.Shantipriyo[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Shantipriyo[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Sharadindu":
+            document.getElementById("authorImg").setAttribute('src', 'author/sharadindu.jpg');
+            for (i = 0; i < authors.Sharadindu.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Sharadindu[i].src}" target="_blank">
+                        <img src="${authors.Sharadindu[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Sharadindu[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Shirshendu":
+            document.getElementById("authorImg").setAttribute('src', 'author/shirshendu.jpeg');
+            for (i = 0; i < authors.Shirshendu.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Shirshendu[i].src}" target="_blank">
+                        <img src="${authors.Shirshendu[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Shirshendu[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Smaranjit":
+            document.getElementById("authorImg").setAttribute('src', 'author/smaranjit.jpeg');
+            for (i = 0; i < authors.Smaranjit.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Smaranjit[i].src}" target="_blank">
+                        <img src="${authors.Smaranjit[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Smaranjit[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Suchitra":
+            document.getElementById("authorImg").setAttribute('src', 'author/suchitra.jpeg');
+            for (i = 0; i < authors.Suchitra.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Suchitra[i].src}" target="_blank">
+                        <img src="${authors.Suchitra[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Suchitra[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Sukanta":
+            document.getElementById("authorImg").setAttribute('src', 'author/sukanta.jpeg');
+            for (i = 0; i < authors.Sukanta.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Sukanta[i].src}" target="_blank">
+                        <img src="${authors.Sukanta[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Sukanta[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Sunil":
+            document.getElementById("authorImg").setAttribute('src', 'author/sunil.jpeg');
+            for (i = 0; i < authors.Sunil.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Sunil[i].src}" target="_blank">
+                        <img src="${authors.Sunil[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Sunil[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Swapan":
+            document.getElementById("authorImg").setAttribute('src', 'image/author.jpg');
+            for (i = 0; i < authors.Swapan.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Swapan[i].src}" target="_blank">
+                        <img src="${authors.Swapan[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Swapan[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Syed":
+            document.getElementById("authorImg").setAttribute('src', 'author/syed.jpeg');
+            for (i = 0; i < authors.Syed.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Syed[i].src}" target="_blank">
+                        <img src="${authors.Syed[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Syed[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Tapan":
+            document.getElementById("authorImg").setAttribute('src', 'author/tapan.jpeg');
+            for (i = 0; i < authors.Tapan.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Tapan[i].src}" target="_blank">
+                        <img src="${authors.Tapan[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Tapan[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+
+        case "Tridib":
+            document.getElementById("authorImg").setAttribute('src', 'author/tridip.jpeg');
+            for (i = 0; i < authors.Tridib.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Tridib[i].src}" target="_blank">
+                        <img src="${authors.Tridib[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Tridib[i].name}</figcaption>
                     </a>
                     </figure>`
                 div.setAttribute('class', 'div');

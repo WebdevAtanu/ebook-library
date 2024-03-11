@@ -1052,7 +1052,7 @@ let authors = {
         "cover": "cover/sukanta/j.png"
     }, {
         "name": "রহস্যময় উপত্যকা",
-        "src": "",
+        "src": "https://drive.google.com/file/d/1pSthh7mcCfvK0DerXT_Bu5_jwnBJPHdG/view?usp=drivesdk",
         "cover": "cover/sukanta/r.png"
     }],
 

@@ -444,19 +444,6 @@ let authors = {
         "src": "https://drive.google.com/file/d/1L3BMuytu0Qp6p6AyYvGoRDHvmU1X2_SR/view?usp=drivesdk",
         "cover": "cover/krishnendu/s.png"
     }],
-    "Leela": [{
-        "name": "দিন দুপুরে",
-        "src": "https://drive.google.com/file/d/1UjHKN6DJxeAPIsoOE4gvUR9Of3rrkWW2/view?usp=drivesdk",
-        "cover": "cover/leela/dd.png"
-    }, {
-        "name": "রচনাসমগ্র",
-        "src": "https://drive.google.com/file/d/1DyEfih6DQtjUENqsnz5nuPH4SVLZOI64/view?usp=drivesdk",
-        "cover": "cover/leela/rs.png"
-    }, {
-        "name": "সেরা ভূত সেরা গোয়েন্দা",
-        "src": "https://drive.google.com/file/d/1foEwC_D2eqmtLt8sRwDpKg0WPe1DSqv_/view?usp=drivesdk",
-        "cover": "cover/leela/sv.png"
-    }],
 
     "Manoj": [{
         "name": "৫×৫ পচিশ",
@@ -1538,23 +1525,6 @@ function displayFunc() {
                         <img src="${authors.Krishnendu[i].cover}" alt="">
                         <hr>
                         <figcaption>${authors.Krishnendu[i].name}</figcaption>
-                    </a>
-                    </figure>`
-                div.setAttribute('class', 'div');
-                document.getElementById("mainContainer").appendChild(div);
-            }
-            break;
-
-        case "Leela":
-            document.getElementById("authorImg").setAttribute('src', 'author/leela.jpg');
-            for (i = 0; i < authors.Leela.length; i++) {
-                var div = document.createElement('div');
-                div.innerHTML = `
-                <figure>
-                    <a href="${authors.Leela[i].src}" target="_blank">
-                        <img src="${authors.Leela[i].cover}" alt="">
-                        <hr>
-                        <figcaption>${authors.Leela[i].name}</figcaption>
                     </a>
                     </figure>`
                 div.setAttribute('class', 'div');

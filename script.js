@@ -144,6 +144,19 @@ let authors = {
         "src": "https://drive.google.com/file/d/1TQUzCXwJiGnUwp--LwYpSL7PTM-CGB1q/view?usp=drivesdk",
         "cover": "cover/avigyan/sr.png"
     }],
+     "Avik": [{
+        "name": "এবং ইনকুইজিশন",
+        "src": "https://drive.google.com/file/d/1rExRB64bt4W6tUoaqlJSj8ZPZ_6b-n8p/view?usp=drive_link",
+        "cover": "cover/avik/ei.png"
+    }, {
+        "name": "পেতবত্থু",
+        "src": "https://drive.google.com/file/d/1r-uK9OP_eAGFLLFv9bHqrZoj23qpe0N9/view?usp=drive_link",
+        "cover": "cover/avik/pb.png"
+    }, {
+        "name": "মিত্তির বাড়ির গুপ্তধন",
+        "src": "https://drive.google.com/file/d/1rGgcZxaPUiB7VHPM8w72ePW3-ubo88th/view?usp=drive_link",
+        "cover": "cover/avik/mbg.png"
+    }],
 
     "Bimal": [{
         "name": "অলৌকিক",
@@ -351,10 +364,6 @@ let authors = {
         "name": "রুদ্রনাথের চুনির চোখ",
         "src": "https://drive.google.com/file/d/19699MzT3RDV5livoTVvM0zHOmPqry-Nl/view?usp=drivesdk",
         "cover": "cover/himadri/rc.png"
-    }, {
-        "name": "রাক্ষুসে নেকড়ে",
-        "src": "https://drive.google.com/file/d/1yeNfW4FUH-ivoXSEy0tJHKk6XPBe2O66/view?usp=drivesdk",
-        "cover": "cover/himadri/rn.png"
     }, {
         "name": "সূর্য মন্দিরের শেষ প্রহরী",
         "src": "https://drive.google.com/file/d/1vIPOZeXxzfxDfFY0B4wn7zmCgTWCT3Md/view?usp=drivesdk",
@@ -1306,6 +1315,22 @@ function displayFunc() {
                         <img src="${authors.Ashapurna[i].cover}" alt="">
                         <hr>
                         <figcaption>${authors.Ashapurna[i].name}</figcaption>
+                    </a>
+                    </figure>`
+                div.setAttribute('class', 'div');
+                document.getElementById("mainContainer").appendChild(div);
+            }
+            break;
+        case "Avik":
+            document.getElementById("authorImg").setAttribute('src', 'author/avik.jpg');
+            for (i = 0; i < authors.Avik.length; i++) {
+                var div = document.createElement('div');
+                div.innerHTML = `
+                <figure>
+                    <a href="${authors.Avik[i].src}" target="_blank">
+                        <img src="${authors.Avik[i].cover}" alt="">
+                        <hr>
+                        <figcaption>${authors.Avik[i].name}</figcaption>
                     </a>
                     </figure>`
                 div.setAttribute('class', 'div');

@@ -71,6 +71,10 @@ let authors = {
         "src": "https://drive.google.com/file/d/1E2QZRpkU7I0ZBPviViRRAXx7dpFUtGni/view?usp=drivesdk",
         "cover": "cover/anish/s.png"
     }, {
+        "name": "তেইশ ঘণ্টা ষাট মিনিট",
+        "src": "https://drive.google.com/file/d/1qzjPozQJGA6O3Z_Ie6lWDepTEFS_iiWO/view?usp=drive_link",
+        "cover": "cover/anish/tg.png"
+    }, {
         "name": "পাতাল ঝর",
         "src": "https://drive.google.com/file/d/10qmYaNwou2tGyCsml8OBsyb_Wzl2nHtb/view?usp=drivesdk",
         "cover": "cover/anish/pj.png"
@@ -132,6 +136,10 @@ let authors = {
         "src": "https://drive.google.com/file/d/1Nf_puTNr7U22X3Bf9KBKex_hriITAB1x/view?usp=drivesdk",
         "cover": "cover/avigyan/vo.png"
     }, {
+        "name": "মাঝে মাত্র চব্বিশ দিন",
+        "src": "https://drive.google.com/file/d/1WrG09ityUbXj1ufeLDi05BilTlFlQRZU/view?usp=drive_link",
+        "cover": "cover/avigyan/mm.png"
+    }, {
         "name": "রহস্য যখন ডারউইন",
         "src": "https://drive.google.com/file/d/1oSs2SAoH2qrvhO0Dki8rn-dCF8MSs58K/view?usp=drivesdk",
         "cover": "cover/avigyan/rd.png"
@@ -144,7 +152,7 @@ let authors = {
         "src": "https://drive.google.com/file/d/1TQUzCXwJiGnUwp--LwYpSL7PTM-CGB1q/view?usp=drivesdk",
         "cover": "cover/avigyan/sr.png"
     }],
-     "Avik": [{
+    "Avik": [{
         "name": "এবং ইনকুইজিশন",
         "src": "https://drive.google.com/file/d/1rExRB64bt4W6tUoaqlJSj8ZPZ_6b-n8p/view?usp=drive_link",
         "cover": "cover/avik/ei.png"
@@ -245,6 +253,10 @@ let authors = {
         "src": "https://drive.google.com/file/d/1qO5oyk2oV12yBVfkCD_ncEBPIK_3MAyz/view?usp=drivesdk",
         "cover": "cover/debarati/nb.png"
     }, {
+        "name": "নীলাম্বরের খিদে",
+        "src": "https://drive.google.com/file/d/1dhfBy9fcA7Ho2PZ8yN68JXogvmPYCHO5/view?usp=drive_link",
+        "cover": "cover/debarati/nk.png"
+    }, {
         "name": "হারিয়ে যাওয়া খুনিরা",
         "src": "https://drive.google.com/file/d/1_4EQJrQhLjwy-ygN38LRvUWgvnZlT4qI/view?usp=drivesdk",
         "cover": "cover/debarati/hk.png"
@@ -279,6 +291,10 @@ let authors = {
         "src": "https://drive.google.com/file/d/1bxhXpm0h6mQ5xDmvs-WXB4OL5LyLvLux/view?usp=drivesdk",
         "cover": "cover/hemendra/om.png"
     }, {
+        "name": "কিং কং",
+        "src": "https://drive.google.com/file/d/1rGnOeFOL2L3Inas9cXHsU74HIq2tHIy1/view?usp=drive_link",
+        "cover": "cover/hemendra/kk.png"
+    }, {
         "name": "কুমার-বিমলের অ্যাডভেঞ্চার সমগ্র",
         "src": "https://drive.google.com/file/d/1bumm1gfbt_teOHju3ZGeGXVFrB1-Amk9/view?usp=drivesdk",
         "cover": "cover/hemendra/kb.png"
@@ -287,6 +303,10 @@ let authors = {
         "src": "https://drive.google.com/file/d/1GrKtwKo20L_60GsLw_-m1hshc55Li7h_/view?usp=drivesdk",
         "cover": "cover/hemendra/gs.png"
     }, {
+        "name": "জলদস্যু কাহিনী",
+        "src": "https://drive.google.com/file/d/1rHj9Ok6Q2PAQS1ASMwGDJnBS-ux0SXvQ/view?usp=drive_link",
+        "cover": "cover/hemendra/jk.png"
+    }, {
         "name": "ভয় সমগ্র",
         "src": "https://drive.google.com/file/d/19uw0ggUW6QCQOmCA9DP3XdjLnqEOkti_/view?usp=drivesdk",
         "cover": "cover/hemendra/bs.png"
@@ -294,6 +314,10 @@ let authors = {
         "name": "ভৌতিক সমগ্র",
         "src": "https://drive.google.com/file/d/1qZ84re2k0Mf8rZkJ3Y5KRxPYhxYUJBhJ/view?usp=drivesdk",
         "cover": "cover/hemendra/vs.png"
+    }, {
+        "name": "মানুষের প্রথম অ্যাডভেঞ্চার",
+        "src": "https://drive.google.com/file/d/1WxtAkCGNg2DdJJMfBDbfPX4WLmjqgTde/view?usp=drive_link",
+        "cover": "cover/hemendra/mpa.png"
     }, {
         "name": "রহস্য রোমাঞ্চ সমগ্র",
         "src": "https://drive.google.com/file/d/1bd3u9hqK9j1EUIe3rzsLT2EGp5mEljcR/view?usp=drivesdk",
@@ -929,6 +953,14 @@ let authors = {
         "src": "https://drive.google.com/file/d/1yfcmj4ZSbO0jGOGgVZP40lUSeP0Cl-yz/view?usp=drivesdk",
         "cover": "cover/shirshendu/au.png"
     }, {
+        "name": "আবরণ",
+        "src": "https://drive.google.com/file/d/1SYxFjk61ZObIkBVXfygpxjWChOD_-6-G/view?usp=drive_link",
+        "cover": "cover/shirshendu/ar.png"
+    }, {
+        "name": "ওয়ারিশ",
+        "src": "https://drive.google.com/file/d/1WAoDN5CR9K9v9oarsm5yEEdFJa_vdyV3/view?usp=drive_link",
+        "cover": "cover/shirshendu/or.png"
+    }, {
         "name": "খুদকুঁড়ো",
         "src": "https://drive.google.com/file/d/1VBsY3sprCA3zfnACA0xY6E0PEKRc9qVA/view?usp=drivesdk",
         "cover": "cover/shirshendu/kh.png"
@@ -945,9 +977,17 @@ let authors = {
         "src": "https://drive.google.com/file/d/1ClhDif1zBWgBYpM0TfPlEYyKM4ORXCdi/view?usp=drivesdk",
         "cover": "cover/shirshendu/pu.png"
     }, {
+        "name": "বনি",
+        "src": "https://drive.google.com/file/d/1rOi2lUp2ROOEgS2eqWmlKkNiQYmUdmmm/view?usp=drive_link",
+        "cover": "cover/shirshendu/b.png"
+    }, {
         "name": "বরদাচরণ সমগ্র",
         "src": "https://drive.google.com/file/d/186OJ-QAxzRc56JJWNQMxjYl0frCcxrpZ/view?usp=drivesdk",
         "cover": "cover/shirshendu/bs.png"
+    }, {
+        "name": "বাঁশিওয়ালা",
+        "src": "https://drive.google.com/file/d/1jW360W7Dg5-83h27DP5RezIRDfn4Jb0x/view?usp=drive_link",
+        "cover": "cover/shirshendu/bw.png"
     }, {
         "name": "রহস্য সমগ্র",
         "src": "https://drive.google.com/file/d/1EGXm0h7BsF3gd3_uvNX50Ukn0zS3xPZw/view?usp=drivesdk",
@@ -1160,10 +1200,6 @@ let authors = {
         "name": "কর্নেল সমগ্র ১৬",
         "src": "https://drive.google.com/file/d/1Z8ah7r9jWosP1ONXFCOQ72IhLtLTQi7Y/view?usp=drivesdk",
         "cover": "cover/syed/ks.png"
-    }, {
-        "name": "ভুত গোয়েন্দা রহস্য",
-        "src": "https://drive.google.com/file/d/1-SqW_VIFVzVPydABhMkxcxj0UNhTelnS/view?usp=drivesdk",
-        "cover": "cover/syed/vgr.png"
     }, {
         "name": "ভৌতিক গল্প সমগ্র",
         "src": "https://drive.google.com/file/d/1FgdRYnCMsSHsmUvbfeKTQZUJLPvjYJbK/view?usp=drivesdk",

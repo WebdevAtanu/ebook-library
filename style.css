@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedan:ital@0;1&display=swap');
+
 h1,
 h5,
 h6 {
-	font-family: "Protest Riot", sans-serif;
+	font-family: "Sedan", serif;
 }
 
 h6 {
@@ -65,15 +67,15 @@ hr {
 /*nav end------------------------------------------------------*/
 .intro {
 	height: 100%;
-	background: #f9d48d;
 	padding: 1rem;
 	color: #031f4b;
-	font-family: "Protest Riot", sans-serif;
+	font-family: "Sedan", serif;
 	border-bottom: 1px solid #80808038;
 }
 
 .intro p {
 	font-size: large;
+	font-weight: bold;
 }
 
 #coverimg {
@@ -84,7 +86,7 @@ hr {
 /*intro ends-----------------------------------------------------*/
 #author {
 	border-bottom: 1px solid #80808038;
-	background: #b11235ad;
+	background: #1233b1b5;
 	height: 100%;
 }
 
@@ -174,7 +176,7 @@ select {
 
 	& p {
 		color: white;
-		font-family: "Protest Riot", sans-serif;
+		font-family: "Sedan", serif;
 	}
 
 }

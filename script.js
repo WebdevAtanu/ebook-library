@@ -1259,7 +1259,6 @@ function displayFunc() {
     document.getElementById("mainContainer").replaceChildren();
     let selectionValue = document.getElementById("selection").value;
     let name = "";
-    console.log(selectionValue);
     switch (selectionValue) {
         case "Adrish":
             document.getElementById("authorImg").setAttribute('src', 'author/adrish.jpg');

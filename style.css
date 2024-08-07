@@ -36,7 +36,7 @@ hr {
 }
 
 .navbar-brand img {
-	width: 4rem;
+	width: 3rem;
 }
 
 .nav-link {
@@ -61,7 +61,10 @@ hr {
 }
 
 .navbar-toggler {
-	background: white;
+	all:unset;
+	svg{
+		color:white;
+	}
 }
 
 /*nav end------------------------------------------------------*/
